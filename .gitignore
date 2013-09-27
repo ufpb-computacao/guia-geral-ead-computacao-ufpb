@@ -14,8 +14,4 @@ livro/livro.tex
 livro/*.asc~
 livro/capitulos/*.asc~
 
-# Arquivos gerados pelo latex
-*.pdf
-livro.aux
-livro.log
 
