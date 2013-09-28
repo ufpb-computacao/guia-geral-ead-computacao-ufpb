@@ -1,127 +1,18 @@
-Calendário de Eventos - 2013.2
-
-Solicitação de Arquivos de Avaliações Presenciais
- Solicitamos o envio de dois tipos de arquivos de avaliação até o dia 07 de outubro de 2013. Informamos ainda que esse será o prazo máximo, devido à logística que envolve a reprodução, separação e envio desses arquivos aos polos em tempo hábil.
-
-Certos de contarmos com sua compreensão, agradecemos antecipadamente
-
-
-Tutores - horário
- A nova divisão ficou a seguinte: dois turnos diurnos de 4 horas no laboratório e um outro de 4 horas noturnas fora do laboratório (em casa), completando às 12 horas.
-Como o laboratório da Virtual não funciona a noite, o turno da noite (e somente esse) pode ser cumprido em casa.
-
-
-
-UFPB Virtual - Agenda de Cursos
-Senha E-tutor/Computação
-
 Cadastramento da tutora
-
-
-Inicio Tutoria
-
-
-Sem acesso ao moodle
-
-
-Dispensa de disciplinas
-O curso de Licenciatura em Computação é novo, por isso ainda não temos todas as disciplinas cadastradas no sistema. Estas disciplinas serão cadastradas conforme forem oferecidas no decorrer dos períodos.
-Sendo assim, neste momento, os professores só poderão dar dispensa das disciplinas que estão sendo oferecidas no período 2013.1. No momento em que as outras disciplinas forem cadastradas os alunos poderão solicitar a dispensa das mesmas. Pedimos, por favor, que repassem essa informação aos alunos.
-
-
-Sobre horários para avaliações presenciais
-
-Recursos para as aulas presenciais
-
-Sobre viagem a Taperoá / Mudança de nomes
-
-Solicitação de declaração
-
-
-Modelos de crachás
-
-Devolução de documentos
-
-URGENTE: Dados para solicitações das diárias
-
-Gostaríamos que os tutores que irão viajar para as aulas presenciais nos enviassem os seguintes dados para solicitação de diárias: RG, endereço, banco, agencia e conta corrente. Ressaltamos que essa conta não pode ser conjunta.
-Lembramos que quem viaja ao polo de João Pessoa não tem direito a diárias.
-
-
-Grade Curricular e ementas
-http://portal.virtual.ufpb.br/wordpress/wp-content/uploads/2013/01/PPC-Licenciatura-Computa%C3%A7%C3%A3o-UFPB-Versao-Final-06082012.pdf
-
-
-Oscilação em rede elétrica Polo de Taperoá-PB
---> problemas eventuais
-
 
 Calendários de aulas presenciais - Licenciatura em Computação
 
-
 Reunião equipe
 
-Sobre material para aula presencial
-
-
-CURSO DE CAPACITAÇÃO PARA NOVOS TUTORES
-
-Tutores presenciais
-Como fazemos para se comunicar com os tutores presenciais dos polos?? 
-Essa comunicação poderá ser feita através do Moodle: entre na guia participantes e escolha os tutores presenciais, assim poderá enviar mensagens...
-
-
-
-Curso de Licenciatura em Computação (EaD) - Ingresso
-Sou graduado no curso de Ciências Contábeis pela UFPB, porém, tenho afinidade com a área da Computação. Como faz um certo tempo que prestei vestibular e não estou acompanhando de perto as mudanças que estão ocorrendo, gostaria de saber como se dará o ingresso de novos alunos para o curso de Licenciatura em Computação (EaD) para o ano de 2014.
-
-Olá Alysson,
-
-A partir desse ano, para entrar em qualquer curso da UFPB Virtual, você terá que se submeter ao ENEM; com a nota obtida, você se inscreve através de um Edital que será lançado pela UFPB Virtual, visto que os nossos cursos não aparecem na lista do SISU.
-
-
-Imagem no moodle / foto
- Precisamos que atualize seu perfilo mais breve possível, incluindo a sua imagem, visto que precisaremos dela para confeccionar um crachá.
-
-
-
-Cadastro no ponto eletrônico
-
-Informamos que o seu cadastro já foi efetuado no Moodle. Sua senha e login iniciais são CPF e CPF.
-
-
-
-Calendário de Aulas Presenciais
- Segue em anexo o calendário de aulas presenciais, bem como o calendário de eventos, modificado após a última reunião de professores.
-Como o setor financeiro nos dá um prazo mínimo de 30 dias para enviar a documentação solicitando diárias e locações de veículos (com motorista), precisamos que as equipes (por disciplina) nos mandem os nomes de cada membro que viajará aos polos sugeridos até a terça-feira 16 de setembro, impreterivelmente.
-
-
-
-Frequência dos tutores|Polo 
-
-
-Pedidos de dispensa de disciplinas
-
-
-Web Conferência
 
 
 Sobre alunos com dispensa parcial da disciplina Matemática Elementar
 
 
 
-Livro do curso
-o livro do curso de licenciatura em computação ja chegou, aonde posso pegá-lo?
- Os livros do 1º período estão sendo impressos, assim que chegarem serão enviados aos polos, e lá será feita a distribuição dos mesmos.
-
-
-bolsa de tutoria
-Gostaria de saber se há alguma data especifica para a bolsa de tutor ficar disponível na conta, pois fui ontem ao BB e não tinha chegado o cartão da bolsa e também não tinha nenhum dinheiro disponível.
- Você deverá mandar um e-mail para bolsas@virtual.ufpb.br solicitando esses dados. No e-mail forneça seu nome, CPF, curso de vinculação e solicite o número de seu benefício. 
 
 
 
-requerimentos de dispensa de disciplina em um único malote
 
 
 Ausência programada
@@ -147,39 +38,6 @@ Envio este documento escaneado pois devido as atividades laborais do momento me 
 
 - aproveitamento de disciplinas para o curso todo ou somente para o semestre corrente;
 - Uma aluna veio fazer com a coordenadora o chamado pré cadastro.
- Em relação a dispensa de disciplinas, o aluno deverá ir ao polo, a partir do dia 19 de agosto, para fazer o requerimento. O polo irá orientá-lo em relação aos documentos necessários. O prazo para o pedido de dispensa de disciplinas é dia 6 de setembro.
-O cadastro no moodle é feito automaticamente pelo suporte. O login e senha são matrícula e matrícula, caso a senha não seja a matrícula o aluno deverá entrar com a data de nascimento. Eles só terão acesso ao moodle a partir de segunda-feira, 19 de agosto.
-Você deve começar a partir de segunda-feira
-
-
-
-Sobre tutoria
-O cadastramento da sua bolsa no nosso sistema já foi efetivado e o suporte te cadastrou no Moodle, assim que o seu acesso deveria funcionar:
-
-Site: http://www.ead.ufpb.br/login/index.php
-Usuário e senha serão seu CPF. Depois do primeiro acesso troquem a sua senha.
-
-O
-login no ponto eletrônico também está disponível para você:
-Site:
-http://ponto.virtual.ufpb.br/
-(só funciona no plantão da UFPB)
- O login é lidiannypereira e a senha os 3 primeiros digitos da sua CPF.
-
-Quanto aos seus horários no plantão e os demais detalhes do seu trabalho como tutora por favor entre em contato com o Prof. Anderson (retondar@ig.com.br, 8737-2003).
-Nas próximas semanas terá uma capacitação para os novos tutores na qual o uso do Moodle será explicado. Por enquanto você pode contatar os outros tutores da sua disciplina (Carolina Soares Ramos: carolinasramos@gmail.com, Rogério de Souza Medeiros: medeirosrogerio@hotmail.com). Eles te ajudarão com certeza com o uso do Moodle. 
-
-
-Apresentação da nova Tutora - contato
-Prezada Professora,
-
-Bom dia!
-
-Segue abaixo o contato de e-mail de sua nova tutora Jayne dos Santos Lima: jayneslima@gmail.com conforme solicitação.
-
-Aviso de falta!
-
-
 
 
 Reunião de Avaliação
@@ -189,73 +47,25 @@ Anteriormente esta reunião estava prevista para o dia 13, mas houve necessidade
 
 
 
-Encargos do Tutores a Distância
-Senhores Professores,
-Lembramos do que sugerimos na nossa reunião no tocante à divisão de alunos entre os tutores a distância:
-a) Todos os tutores alocados à disciplina são responsáveis pelas respostas das dúvidas postadas pelos alunos, qualquer que seja o seu polo;
-b) Igualmente, todos os tutores alocados à disciplina devem atender aos chats e outras formas de comunicação on-line;
-c) Divida seu alunado entre os seus tutores, tomando por base preferencialmente, e sempre que possível, os polos, ficando cada um deles responsável por um acompanhamento mais detalhado do desempenho, motivação e interesse do aluno.
-
-Temos um importante depoimento da tutora Marcelle que, por sinal, desde o período passado vem sugerindo estas melhorias: "Na disciplina de Introdução a EaD isso tem dado muito certo desde o período passado e já avisamos aos alunos sobre a divisão na página inicial da disciplina. Contudo, eles podem tirar dúvida a qualquer momento com qualquer um de nós."
-Att
-João Carlos
 
 Ausência - casos de doença
 
 
 
-Reprogramação das tarefas
- A Coordenação informa aos professores do 1º Período que as duas primeiras semanas de aula são reservadas unicamente para as atividades de Introdução a EAD, onde são feitas as ambientações na Plataforma Moodle nos próprios Polos de Apoio Municipal. Neste último sábado, tivemos a ambientação dos nossos alunos dos Polos de Taperoá e Campina Grande. Após esta ação é que nossos alunos passam a conhecer a plataforma Moodle e tornam-se aptos a frequentar a salas de aulas virtuais.
-
-
-Documentos de interesse de alunos e professores
-http://www.ufpb.br/sites/www.ufpb.br.prg/files/pdfs/LegislacaoAluno.pdf
-
-
-Sistema para emissão de comprovante de vinculo para carteira de estudante
-
-
-
 declaração para trabalho
-Boa Tarde, minha mat: 91321251 estive presente nas aulas do dia 24/08/2013 e 31/9/2013 no polo de C. Grande, Trabalho na Renacar Automóveis Ltda. Solicito declaração para entregar nesta empresa e justificar minha ausência. Gostaria também de uma grande ajuda de vocês pois a empresa fala que esta declaração não tem validade para ele. Poderia me enviar algum artigo que pudesse me ajudar a comprovar a validade deste documento... fiz algumas pesquisas mas não achei...
 
- A declaração a que você se refere (é emitida pelo Polo) é um documento oficial que confirma sua presença. Mesmo sendo a atividade pontuada e considerada como obrigatória a Empresa não é obrigada a dispensá-lo, a não ser que a sua classe trabalhista e as leis que a regem tenham esse acordo firmado em alguma convenção coletiva, por exemplo.
-
-Logotipo do curso
 
 Contato dos tutores
 
 
 Endereço para envio dos documentos
- O endereço consta no Edital a que você foi submetida.
 
-
-Resultado seleçao de tutores
-
-
-
-Matricula Computação
-A verificação da documentação dos candidatos aprovados é feita pela CODESC, órgão da UFPB responsável pelo processo de matrícula. Sua matrícula consta na primeira lista de candidatos não validados, divulgada no site portal.virtual.ufpb.br/wordpress/vestibular/vestibular-2013. Estas ocorrências tem prazo para recursos, o que não foi feito em tempo hábil. Vencido o prazo os documentos são devolvidos ao polo.
-Desta maneira, você deverá em contato com o polo e com a CODESC para maiores informações.
-Essa coordenação não tem autonomia para solucionar problemas relativos à matrícula.
-
-
-Remanejamento de tutores
-Troca de disciplinas de tutores do curso de computação
 
 
 FORMULÁRIO DE CADASTRAMENTO DA UAB
 
 
 Resultado / Processo seletivo para tutor presencial
-
-
-Carteira de estudante
-Um aluno me perguntou se como estudante a distancia ele teria como fazer a carteira de estudante e como seria o procedimento. Alguma informação sobre isso?
-
- Sobre a carteira de estudante poderá ser confeccionada no site http://www.estudante10.com/webportal/filter.xhtml  só que antes de ir buscá-la o estudante precisa de uma declaração de matrícula (original - não pode ser escaneada) assinada e com o carimbo do Coordenador do nosso Curso; para solicitar essa declaração é preciso mandar um e-mail com 48 horas de antecedência para: computacao.academico@virtual.ufpb.br. Depois é só vir pegar aqui mesmo na Coordenação do Curso  de Computação - UFPB Virtual.
-
-Sobre os livros, parte deles foi para a gráfica na sexta-feira e a partir disso ainda nos resta esperar por 40 dias úteis até a impressão final.
 
 
 
