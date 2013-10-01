@@ -1,20 +1,3 @@
-Cadastramento da tutora
-
-Calendários de aulas presenciais - Licenciatura em Computação
-
-Reunião equipe
-
-
-
-Sobre alunos com dispensa parcial da disciplina Matemática Elementar
-
-
-
-
-
-
-
-
 Ausência programada
 Bom dia, Professor Lucídio!
        Próxima semana, 16 a 20 de setembro, fui convidada a participar
@@ -33,42 +16,10 @@ minha ausência física no Polo trouxer prejuízos para o meu trabalho de
 tutora não participarei do evento.
 
 
-
-
 Contato dos tutores
 
 
-Endereço para envio dos documentos
-
-
-
-FORMULÁRIO DE CADASTRAMENTO DA UAB
-
-
-Aula inaugural
-
 Aula presencial Introdução a EAD
-
-
-Mudança de e-mail
-Obrigada pela informação. Já atualizei o seu endereço Email na nossa planilha.
-
-
-Alunos com soma do total de créditos matriculados no período 2013-2 inferior ao permitido para o Curso.
-
-Em caso de adicionamento ou cancelamento de disciplinas, bem como na hipótese de não conseguir efetuar a matrícula no período fixado por este Edital, os procedimentos devem ser o seguinte:
-
- 
-
-a)    pelo aluno(a): protocolar requerimento (assinado e datado) na Coordenação do Polo, indicando o nome e o código da(s) disciplina(s) que deseja cursar ou cancelar, até o dia 16 de agosto de 2013;
-
-b)    pela Coordenação do Polo: dar o visto e enviar o documento, por via eletrônica, até o dia 16 de agosto de 2013, à Coordenação do Curso a qual o aluno está vinculado, para provável efetivação do pedido.
-
-
-
-
-
-
 
 
 Gravação de vídeo
@@ -76,16 +27,10 @@ O seu agendamento está confirmado para às 15:30 de hoje, na sala de web confer
 
 Reunião com a equipe administrativa
 
-
 Matrícula SIAPE
 
 
-
-Oferta de Disciplinas -2013.2
-
-
 Convite vaga para Tutoria
-
 
 Dados para o cadastro das disciplinas no sistema
 Precisamos das seguintes informações para cadastramos as disciplinas no sistema:
@@ -97,119 +42,24 @@ CPF
 Recesso - Férias
 
 
-
-
-Sobre armazenamento de avaliações
-Pedimos a gentileza de virem à Coordenação do Curso para buscar as avaliações já corrigidas que ainda se encontram conosco, tendo em vista o espaço restrito de que dispomos, sendo que o mesmo não comporta tais arquivos. Sendo por hora a solução encontrada pela Coordenação, os arquivos deverão ficar sob sua guarda.
-
-
-
-Horário de Funcionamento da UFPB Virtual
-
-
-Formulário termo de compromisso com erro
- O seu formulário veio com um erro, no item 15, Unidade Federativa Nascimento, ao invés de colocar Paraíba, você colocou Brasil. Corrigi para você, mas vi que a folha com o reconhecimento de firma estava no verso. Então não podemos aproveitá-la pois o formulário não pode ir com rasuras. Por isso, pedimos urgentemente que você envie a segunda folha com o reconhecimento de firma pelos correios para que possamos fazer o seu cadastro.
-
-
-
-Provas adventistas
-
-
-
 Lista de frequência - provas finais - Computação
 Encaminhamos a lista de frequência dos alunos que irão fazer as provas finais no sábado.
 Note que a planilha tem 5 abas para cada disciplina.
-
-Lista de alunos que farão a prova final
-
-
-
-Novo formulário bolsistas
-
-
-
-Processo para o Curso
- O ingresso para todos os cursos da UFPB Virtual agora é realizado pelo ENEM. Como as inscrições já estão encerradas este ano, somente haverá seleção no ano de 2014.
-Mais informações no site http://portal.virtual.ufpb.br/wordpress/
-
-
-
-
-Tutor inicio agencia conta
- Sim, a conta é do Banco do Brasil, e é somente a agência que deve ser preenchida no formulário porque mesmo que você tenha uma conta no BB, eles abrirão uma conta nova somente para o pagamento da bolsa.
 
 
 POLO FECHADO FERIADO MUNICIPAL SEXTA 26 DE JULHO
 
 
-
 URGENTE! AVALIAÇÕES AGUARDANDO CORREÇÃO
 
 
-Voluntários para a aplicação das provas de João Pessoa
-
-
-Prova em polo diferente
-
-
-
-Quantitativo de alunos para as avaliações finais
-Gostaríamos que nos enviassem o quantitativo de alunos que ficou para a prova final por polo. Sabemos que ainda faltam as provas de reposição de Cabaceiras e Itaporanga que ainda não chegaram, mas se vocês pudessem nos enviar o número dos demais polos, o quanto antes, seria bom para fazermos o levantamento do número de cópias que precisamos fazer.
-
-
-
-
 MATRICULA
-Boa noite estou enviando este e-mail pois tenho dúvidas a respeito de como irei assistir as aulas de Computação DS para o polo Conde-PB, até o momento tenho poucas informações, não tenho o numero da minha matrícula, qual sistema iremos utilizar, senha para acessá-los dentre outros. Segundo o calendário as aulas vão iniciar em agosto/2013 e não quero perder nada, espero que me ajudem com essas questões e outras que porventura forem pertinentes.. abraço e segue abaixo alguns dos meus dados:
-
- A matrícula nas disciplinas no primeiro período é automática. Sugiro que você entre em contato com o seu polo para tirar as dúvidas em relação ao número da sua matrícula e outros procedimentos a serem feitos antes do início das aulas.
-
-
-
-CONTATOS
-Nesta página da Virtual http://portal.virtual.ufpb.br/wordpress/cursos/computacao/
-Tem como mudar a informação onde está escrito email, colocar emails e acrescentar as seguintes informações:
-Coordenação: computacao@virtual.ufpb.br
-Controle Acadêmico: computacao.academico@virtual.ufpb.br
-Financeiro: computacao.financeiro@virtual.ufpb.br
-
-
-
-Re: [Chamado:2013071510000023] Sistema Fora do Ar
-Gostaríamos de informar que no último sábado dia 13/07/2013, nossa plataforma Moodle EAD ficou fora do ar devido a problemas na rede elétrica do Data Center da UFPB onde os servidores que hospedam os sistemas Moodle da UFPB Virtual estão alocados. O sistema retornou no domingo (14/07/2013) por volta das 19:00hs.
-
-Com isto, gostaríamos de pedir  desculpas pelos possíveis transtornos causados, bem como a compreensão de todos, para orientar seus professores na extensão do prazos das atividades.
-
-Certo do pronto atendimento, agradecemos desde já.
-
-
-
 
 NOTAS
-Boa Tarde Camila, venho através deste sanar algumas dúvidas em relação a minha manutenção no curso de computação.
-Este Período inicial do curso passei por vários problemas e fatos de ordem pessoal (Nascimento de minha filha que ficou algumas semanas internadas) e mudança de caga horária no ambiente de trabalho, questões essas que dificultaram meu acompanhamento semanalmente com as atividades do curso, ciente do prejuízo que estaria levando academicamente e muito preocupado com o mesmo.
-Gostaria me informar se com a reprovação de algumas disciplinas desse período irá ocasionar na perca da minha matrícula, ou cursarei as mesma novamente no próximo período?, pergunto pois não encontrei nenhum manual acadêmico com essas informações e como se trata de uma graduação a distância, quais prejuízos terei?
-
-REPOSTA
-Você não perderá a sua matrícula caso você fique reprovado em algumas disciplinas. O único problema é que o seu CR pode ficar baixo.
-Ressalto apenas que no próximo semestre a matrícula não será automática como no primeiro, vocês que deverão realizá-la. Posteriormente receberão a informação de prazos e como fazer.
-Espero que no próximo semestre seus problemas estejam sanados para que você consiga acompanhar o curso com maior facilidade.
-
-
 
 Sobre protocolo das avaliações presenciais 2
 
-
-
-Provas de reposição, sábado 13/07/2013
- O aluno que tirou nota menor que 50 em qualquer disciplina poderá fazer reposição?Sim, caso não tenha perdido nenhuma disciplina. Caso ele tenha perdido uma prova e tirou nota menor que 50 na outra, deverá repor a prova que perdeu.
-Lembrando que ele só pode fazer uma reposição por disciplina.
-
-
-
-
 Cabeçalho da prova de reposição modelo 2
-
 
 declaração - tutoria
 
