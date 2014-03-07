@@ -1,0 +1,29 @@
+== Processo Seletivo
+
+=== Para novos tutores
+
+(((Processo Seletivo, Tutor)))
+
+Os editais para seleção de novos tutores serão publicados em
+http://www.virtual.ufpb.br na seção dos
+http://www.virtual.ufpb.br/wordpress/category/editais/[editais].
+
+NOTE: Os resultados das seleções dos tutores serão divulgados no mesmo local.
+
+==== Posso concorrer sem a emissão do diploma?
+
+O documento que pode substituir o ((Diploma)), enquanto ele não
+estiver pronto, é o ((Certificado de Conclusão)) de curso. Você pode
+solicitá-lo na coordenação do seu curso.
+
+==== Devolução de documentos
+Conforme editais, um mês para pegar.
+
+(((Processo Seletivo, Tutor, Devolução de Documentos)))
+
+
+////
+Sempre termine os arquivos com uma linha em branco.
+////
+
+

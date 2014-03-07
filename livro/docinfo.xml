@@ -3,9 +3,18 @@
   rudder-doc-docinfo.xml
   DocBook document information file for rudder-doc.txt.
 -->
-  <edition>v0.2.0</edition>
+  <edition>v1.0.0</edition>
 
   <revhistory>
+    <revision>
+      <revnumber>v1.0.0</revnumber>
+      <date>11/03/2014</date>
+      <authorinitials>Eduardo</authorinitials>
+      <revremark>
+- Reformulação do guia para a WebConferência de Produção dos Livros #2
+      </revremark>
+    </revision>
+
 
     <revision>
       <revnumber>v0.2.0</revnumber>

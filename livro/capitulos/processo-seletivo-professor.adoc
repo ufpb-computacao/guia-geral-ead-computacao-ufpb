@@ -1,0 +1,15 @@
+== Processo Seletivo
+
+(((Processo Seletivo, Professor)))
+
+Para ingressar no curso como professor entre em contato com o
+Coordenador do Curso.
+
+NOTE: Um pré-requisito para participar do curso como professor é ser
+professor da UFPB.
+
+////
+Sempre termine os arquivos com uma linha em branco.
+////
+
+

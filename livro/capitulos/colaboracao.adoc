@@ -1,0 +1,44 @@
+[[colaboracao]]
+== Construção Colaborativa
+
+(((Colaboração)))
+
+Como primeiro parágrafo do guia, gostaria de ressaltar o aspecto mais 
+importante dele: *o sucesso e confiança deste guia depende de VOCÊ, 
+da sua Colaboração*.
+
+Este documento foi concebido para ser uma *produção colaborativa*, 
+onde todos os envolvidos com o curso possam enviar suas contribuições 
+para manter este guia atualizado e útil.
+
+=== Como você pode contribuir com o Guia
+
+Lendo o guia e solicitando atualizar o guia::
+Após ler o guia você percebe que faltou explicação de algum conteúdo,
+então você pode ir em
+https://github.com/edusantana/ufpb-virtual-computacao/issues e
+escrever qual a contribuição que está faltando, exemplo:
++
+....
+
+Na seção "Dispensa de Disciplina", ficou faltando informar se o aluno
+deve cursar a disciplina enquanto o processo de dispensa ainda está
+sendo executado.
+
+....
+
+Discutindo as solicitações::
+Você pode consultar as solicitações em
+https://github.com/edusantana/ufpb-virtual-computacao/issues e
+participar das discussões nas solicitações:
+
+Atualizando o guia::
+Neste caso você pode atualizar os arquivos de texto do guia em
+https://github.com/edusantana/ufpb-virtual-computacao/tree/master/livro/capitulos.
+Depois de atualizado você envia um Pull Request e aguarda que sua
+alteração seja incorporada ao Guia.
+
+
+////
+Sempre termine os arquivos com uma linha em branco.
+////

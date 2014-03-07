@@ -1,7 +1,14 @@
-[[web_conferencia]]
 == Web Conferência
 
 (((Web Conferência)))
+
+=== Link para WebConferência
+
+Todas as web-conferências da UFPB são transmitidas pelo mesmo link,
+para você assistir a sua conferência deve aguardar o horário de
+veiculação.
+
+Link da webconferência:: http://webconf2.rnp.br
 
 === Calendário de Web Conferência
 

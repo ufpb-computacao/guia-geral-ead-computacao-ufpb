@@ -1,0 +1,29 @@
+== Web Conferência
+
+(((Web Conferência)))
+
+=== Link para WebConferência
+
+Todas as web-conferências da UFPB são transmitidas pelo mesmo link,
+para você assistir a sua conferência deve aguardar o horário de
+veiculação.
+
+Link da webconferência:: http://webconf2.rnp.br
+
+=== Calendário de Web Conferência
+
+A coordenação do curso planeja um calendário de WebConferência para as disciplinas.
+
+=== Marcar uma nova webconferência
+
+Caso o tutor de uma disciplina deseje realizar uma Web Conferência, ele poderá
+entrar em contato com o professor da disciplina e juntos contactar a
+equipe de webconferência diretamente.
+
+Conferencias agendadas:: http://www.ead.ufpb.br/webconf/agenda.html
+
+////
+Sempre termine os arquivos com uma linha em branco.
+////
+
+
