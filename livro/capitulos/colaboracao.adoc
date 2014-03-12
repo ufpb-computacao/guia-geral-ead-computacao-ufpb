@@ -21,9 +21,9 @@ escrever qual a contribuição que está faltando, exemplo:
 +
 ....
 
-Na seção "Dispensa de Disciplina", ficou faltando informar se o aluno
-deve cursar a disciplina enquanto o processo de dispensa ainda está
-sendo executado.
+Na seção "Dispensa de Disciplina", ficou faltando informar
+se o aluno deve cursar a disciplina enquanto o processo de 
+dispensa ainda está sendo executado.
 
 ....
 
@@ -40,13 +40,18 @@ alteração seja incorporada ao Guia.
 
 === Como baixar este guia
 
-Este guia está disponível em duas versões:
+Este guia está disponível em três versões:
 
 Release (estável)::
 {gitrepo}/releases
 
 Versão em desenvolvimento (instável)::
 http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/livro/livro.pdf
+(em pdf) 
+
+Diretamente no repositório:: {gitrepo}
+
+
 
 
 ////
