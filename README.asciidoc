@@ -6,11 +6,62 @@ Computação a distância da UFPB.
 Você pode acessar o conteúdo do guia das seguintes forma:
 
 * http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/livro/livro.pdf[Versão
-  em PDF em desenvolvimento] (instável)
+  PDF em desenvolvimento] (instável)
 * https://github.com/edusantana/guia-geral-ead-computacao-ufpb/releases[Releases
-  em PDF] (estável)
-* Acessando os capítulos diretamente no
-  https://github.com/edusantana/guia-geral-ead-computacao-ufpb/tree/master/livro/capitulos[repositório].
+  PDF] (estável)
+* Acessando os capítulos diretamente no repositório (próximas seções)
+
+=== Sumário dos arquivos
+
+:gitrepo: https://github.com/edusantana/guia-geral-ead-computacao-ufpb
+
+:blob: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos/alunos-novos.asc
+
+* {blob}/capitulos/prefacio.asc[]
+
+= Apresentação do Guia Geral do Curso =
+* {blob}/capitulos/colaboracao.adoc[]
+
+= Guia dos Alunos =
+* {blob}/capitulos/curso.asc[]
+* {blob}/capitulos/processo-seletivo-aluno.adoc[]
+* {blob}/capitulos/alunos-novos.asc[]
+* {blob}/capitulos/alunos.asc[]
+* {blob}/capitulos/livros.asc[]
+* {blob}/capitulos/web-conferencia-aluno.adoc[]
+
+= Guia dos Tutores =
+* {blob}/capitulos/curso.asc[]
+* {blob}/capitulos/processo-seletivo-tutor.adoc[]
+* {blob}/capitulos/tutores-novos.asc[]
+* {blob}/capitulos/tutores-presenciais.asc[]
+* {blob}/capitulos/tutores-distancia.asc[]
+* {blob}/capitulos/capacitacao.asc[]
+* {blob}/capitulos/livros.asc[]
+* {blob}/capitulos/web-conferencia-tutor.adoc[]
+
+= Guia dos Professores =
+* {blob}/capitulos/curso.asc[]
+* {blob}/capitulos/processo-seletivo-professor.adoc[]
+* {blob}/capitulos/professores-novos.asc[]
+* {blob}/capitulos/professores.asc[]
+* {blob}/capitulos/livros.asc[]
+* {blob}/capitulos/capacitacao.asc[]
+* {blob}/capitulos/web-conferencia-professor.adoc[]
+
+= Guia dos Polos =
+* {blob}/capitulos/curso.asc[]
+* {blob}/capitulos/polos.asc[]
+* {blob}/capitulos/livros.asc[]
+* {blob}/capitulos/web-conferencia-polo.adoc[]
 
 
+= Processos = 
+* {blob}/capitulos/p-matricula.asc[]
+* {blob}/capitulos/p-aulas-presenciais.asc[]
+* {blob}/capitulos/p-avaliacao-presencial.asc[]
+* {blob}/capitulos/p-dispensa-disciplina.asc[]
 
+= Outros =
+* {blob}/capitulos/moodle.asc[]
+* {blob}/capitulos/glossario.asc[]
