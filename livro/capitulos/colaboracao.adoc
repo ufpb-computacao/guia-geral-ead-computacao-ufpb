@@ -47,10 +47,37 @@ Release (estável)::
 
 Versão em desenvolvimento (instável)::
 http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/livro/livro.pdf
-(em pdf) 
+
+
+==== Para acessar o Guia on-line
+
+Versão em desenvolvimento (instável)::
+http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/livro/livro.chunked/index.html
 
 Diretamente no repositório:: {gitrepo}
 
+=== Webconferência sobre este Guia e a Produção dos livros
+
+
+.CONTEÚDOS DA CONFERÊNCIA
+....
+= Apresentação do Guia Geral do Curso
+== Guia dos Alunos
+== Guia dos Tutores
+== Guia dos Professores
+== Guia dos Polos
+== Construção colaborativa dos Guias
+= Onde encontrar os livros do curso
+== Como baixar todos os livros de uma única vez (releasess)
+== Como acessar os livros individualmente (releases e repositórios)
+== Como acessar as versões em produção dos livros (instáveis)
+== Como ser notificado de novas atualizações dos livros
+= Como os alunos do curso podem contribuir com os livros
+== Criando uma conta no github
+== Indicando correções/erros/sugestões (Issue)
+== Submetendo correções (Pull Request)
+= Como os livros são produzidos
+....
 
 
 
