@@ -1,7 +1,8 @@
 == Guia Geral do Curso
 
-Este repositório contém o Guia Geral do Curso de Licenciatura em
-Computação a distância da UFPB.
+Este repositório contém o Guia Geral do 
+http://portal.virtual.ufpb.br/wordpress/cursos/computacao/[Curso de Licenciatura em
+Computação a distância da UFPB].
 
 Você pode acessar o conteúdo do guia das seguintes forma:
 
