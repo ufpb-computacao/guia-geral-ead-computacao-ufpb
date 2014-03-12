@@ -10,6 +10,9 @@ veiculação.
 
 Link da webconferência:: http://webconf2.rnp.br
 
+NOTE: Se você acessou a página e está solicitando _login_ e _senha_ é
+porque você está acessando o link fora do horário da webconferência.
+
 === Calendário de Web Conferência
 
 A coordenação do curso planeja um calendário de WebConferência para as disciplinas.
