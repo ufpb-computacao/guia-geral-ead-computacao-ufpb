@@ -11,55 +11,56 @@ Você pode acessar o conteúdo do guia das seguintes forma:
   PDF] (estável)
 * Acessando os capítulos diretamente no repositório (próximas seções)
 
-=== Sumário dos arquivos
+== Sumário dos arquivos
 
 :blob: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro
 
-* {blob}/capitulos/prefacio.asc[]
+* {blob}/capitulos/prefacio.asc[prefacio]
 
-= Apresentação do Guia Geral do Curso =
-* {blob}/capitulos/colaboracao.adoc[]
+=== Apresentação do Guia Geral do Curso =
+* {blob}/capitulos/colaboracao.adoc[colaboracao]
 
-= Guia dos Alunos =
-* {blob}/capitulos/curso.asc[curso.asc]
-* {blob}/capitulos/processo-seletivo-aluno.adoc[processo-seletivo-aluno.adoc]
-* {blob}/capitulos/alunos-novos.asc[]
-* {blob}/capitulos/alunos.asc[]
-* {blob}/capitulos/livros.asc[]
-* {blob}/capitulos/web-conferencia-aluno.adoc[]
+=== Guia dos Alunos
+* {blob}/capitulos/curso.asc[curso]
+* {blob}/capitulos/processo-seletivo-aluno.adoc[processo seletivo]
+* {blob}/capitulos/alunos-novos.asc[alunos-novos]
+* {blob}/capitulos/alunos.asc[alunos]
+* {blob}/capitulos/livros.asc[livros]
+* {blob}/capitulos/web-conferencia-aluno.adoc[web-conferencia]
 
-= Guia dos Tutores =
-* {blob}/capitulos/curso.asc[]
-* {blob}/capitulos/processo-seletivo-tutor.adoc[]
-* {blob}/capitulos/tutores-novos.asc[]
-* {blob}/capitulos/tutores-presenciais.asc[]
-* {blob}/capitulos/tutores-distancia.asc[]
-* {blob}/capitulos/capacitacao.asc[]
-* {blob}/capitulos/livros.asc[]
-* {blob}/capitulos/web-conferencia-tutor.adoc[]
+=== Guia dos Tutores
+* {blob}/capitulos/curso.asc[curso]
+* {blob}/capitulos/processo-seletivo-tutor.adoc[processo seletivo]
+* {blob}/capitulos/tutores-novos.asc[tutores novos]
+* {blob}/capitulos/tutores-presenciais.asc[tutores presenciais]
+* {blob}/capitulos/tutores-distancia.asc[tutores a distância]
+* {blob}/capitulos/capacitacao.asc[capacitação]
+* {blob}/capitulos/livros.asc[livros]
+* {blob}/capitulos/web-conferencia-tutor.adoc[web conferência]
 
-= Guia dos Professores =
-* {blob}/capitulos/curso.asc[]
-* {blob}/capitulos/processo-seletivo-professor.adoc[]
-* {blob}/capitulos/professores-novos.asc[]
-* {blob}/capitulos/professores.asc[]
-* {blob}/capitulos/livros.asc[]
-* {blob}/capitulos/capacitacao.asc[]
-* {blob}/capitulos/web-conferencia-professor.adoc[]
+=== Guia dos Professores
+* {blob}/capitulos/curso.asc[curso]
+* {blob}/capitulos/processo-seletivo-professor.adoc[processo seletivo]
+* {blob}/capitulos/professores-novos.asc[professores novos]
+* {blob}/capitulos/professores.asc[professores]
+* {blob}/capitulos/livros.asc[livros]
+* {blob}/capitulos/capacitacao.asc[capacitação]
+* {blob}/capitulos/web-conferencia-professor.adoc[web conferência]
 
-= Guia dos Polos =
-* {blob}/capitulos/curso.asc[]
-* {blob}/capitulos/polos.asc[]
-* {blob}/capitulos/livros.asc[]
-* {blob}/capitulos/web-conferencia-polo.adoc[]
+=== Guia dos Polos
+* {blob}/capitulos/curso.asc[curso]
+* {blob}/capitulos/polos.asc[polos]
+* {blob}/capitulos/livros.asc[livros]
+* {blob}/capitulos/web-conferencia-polo.adoc[web conferência]
 
+=== Processos
 
-= Processos = 
-* {blob}/capitulos/p-matricula.asc[]
-* {blob}/capitulos/p-aulas-presenciais.asc[]
-* {blob}/capitulos/p-avaliacao-presencial.asc[]
-* {blob}/capitulos/p-dispensa-disciplina.asc[]
+* {blob}/capitulos/p-matricula.asc[matricula]
+* {blob}/capitulos/p-aulas-presenciais.asc[aulas presenciais]
+* {blob}/capitulos/p-avaliacao-presencial.asc[avaliação presencial]
+* {blob}/capitulos/p-dispensa-disciplina.asc[dispensa de disciplina]
 
-= Outros =
-* {blob}/capitulos/moodle.asc[]
-* {blob}/capitulos/glossario.asc[]
+=== Outros
+* {blob}/capitulos/moodle.asc[moodle]
+* {blob}/capitulos/glossario.asc[glossário]
+
