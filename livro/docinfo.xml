@@ -8,9 +8,16 @@
   <revhistory>
     <revision>
       <revnumber>v1.0.0</revnumber>
-      <date>11/03/2014</date>
+      <date>12/03/2014</date>
       <authorinitials>Eduardo</authorinitials>
       <revremark>
+- Como baixar o guia #2
+- Atualização do readme #2
+- Comando curl para baixar livros ficando melhor no pdf #2
+- Mudança de repositório #2
+- Inclusão de banco-de-dados-livro
+- Se acessar webconf fora do horário
+- Comando único para baixar todos livros
 - Reformulação do guia para a WebConferência de Produção dos Livros #2
       </revremark>
     </revision>
