@@ -17,7 +17,7 @@ Você pode acessar o conteúdo do guia das seguintes forma:
 
 * {blob}/capitulos/prefacio.asc[prefacio]
 
-=== Apresentação do Guia Geral do Curso =
+=== Apresentação do Guia Geral do Curso 
 * {blob}/capitulos/colaboracao.adoc[colaboracao]
 
 === Guia dos Alunos
