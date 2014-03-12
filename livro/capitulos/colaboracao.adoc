@@ -16,7 +16,7 @@ para manter este guia atualizado e útil.
 Lendo o guia e solicitando atualizar o guia::
 Após ler o guia você percebe que faltou explicação de algum conteúdo,
 então você pode ir em
-https://github.com/edusantana/ufpb-virtual-computacao/issues e
+{issues}/new e
 escrever qual a contribuição que está faltando, exemplo:
 +
 ....
@@ -29,12 +29,12 @@ sendo executado.
 
 Discutindo as solicitações::
 Você pode consultar as solicitações em
-https://github.com/edusantana/ufpb-virtual-computacao/issues e
+{issues} e
 participar das discussões nas solicitações:
 
 Atualizando o guia::
 Neste caso você pode atualizar os arquivos de texto do guia em
-https://github.com/edusantana/ufpb-virtual-computacao/tree/master/livro/capitulos.
+{gitrepo}/tree/master/livro/capitulos.
 Depois de atualizado você envia um Pull Request e aguarda que sua
 alteração seja incorporada ao Guia.
 
