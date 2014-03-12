@@ -1,4 +1,4 @@
-[[colaboracao]]
+[[cap_colaboracao]]
 == Construção Colaborativa
 
 (((Colaboração)))
@@ -80,7 +80,7 @@ Diretamente no repositório:: {gitrepo}
 ....
 
 
-
 ////
 Sempre termine os arquivos com uma linha em branco.
 ////
+

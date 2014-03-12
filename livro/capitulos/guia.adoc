@@ -1,0 +1,106 @@
+== Apresentação do Guia Geral do Curso
+
+=== Guia geral do curso recomendado pelo MEC
+
+O MEC publicou um documento chamado 
+``Referenciais de Qualidade para Educação Superior a Distância''
+que se encontra disponível para download em:
+http://portal.mec.gov.br/seed/arquivos/pdf/legislacao/refead1.pdf
+
+O documento menciona a importância de disponibilizar um *Guia Geral do
+Curso*:
+
+[quote,MEC, Referenciais de Qualidade para Educação Superior a Distância]
+É importante que a proposta de material didático para cursos superiores a
+distância inclua um Guia Geral do Curso - impresso e/ou em formato digital
+
+NOTE: Este guia surgiu para seguir esta recomendação do MEC, adotando
+inclusive o nome sugerido.
+
+O referencial recomenda que o guia:
+
+- ``Oriente o estudante quanto às características da educação a distância e
+quanto aos direitos, deveres e normas de estudo a serem adotadas,
+durante o curso'';
+
+- ``Contenha informações gerais sobre o curso (grade curricular, ementas,
+etc.)'';
+
+- ``Informe, de maneira clara e precisa, que materiais serão colocados à
+disposição do estudante (livros-texto, cadernos de atividades, leituras
+complementares, roteiros, obras de referência, CD Rom, Web-sites, vídeos,
+ou seja, um conjunto - impresso e/ou disponível na rede - que se articula
+com outras tecnologias de comunicação e informação para garantir
+flexibilidade e diversidade)'';
+
+- ``Defina as formas de interação com professores, tutores e colegas'';
+
+- ``Apresente o sistema de acompanhamento, avaliação e todas as demais
+orientações que darão segurança durante o processo educacional''.
+
+``Relativo ao conteúdo de cada material educacional, é importante que seja
+colocado a disposição dos estudantes um Guia - impresso e/ou digital
+-, que'':
+
+- ``Oriente o estudante quanto às características do processo de ensino e
+aprendizagem particulares de cada conteúdo'';
+- ``Informe ao estudante a equipe de docentes responsável pela gestão do
+processo de ensino'';
+- ``Informe ao estudante a equipe de tutores e os horários de
+  atendimento'';
+- ``Apresente cronograma (data, horário, local - quando for o caso) para o
+sistema de acompanhamento e avaliação''.
+
+=== Incluindo Tutores, Professores e Polos
+
+Na prática estamos constantemente contratando novos tutores,
+professores e atuando em novos polos, por isso em nosso guia
+decidimos incluir informações para as outros integrantes do curso:
+*tutores, professores e funcionários dos polos*.
+
+[IMPORTANT]
+====
+Na organização deste Guia, decidimos reservar a primeira parte para 
+apresentação do guia, seguida de uma parte para cada papel: *aluno, tutor,
+professor e polos*:
+
+....
+= Guia dos Alunos =
+= Guia dos Tutores =
+= Guia dos Professores =
+= Guia dos Polos =
+....
+
+A divisão do guia foi planejada para que cada integrante só necessite
+ler a parte que seja integrante.
+
+====
+
+=== A Produção do guia é colaborativa
+
+Tendo experiência em outros cursos a distância, percebemos que o guia
+do aluno não costuma ser consultado. As vezes é mais simples enviar um
+e-mail para alguém e aguardar a resposta do que consultar o guia.
+
+.Exemplo de algumas perguntas enviadas por e-mails
+....
+Quanto preciso tirar na prova final para passar?
+Como faço para poder tirar a carteira de estudante?
+Tutor também tem direito a carteira de estudante?
+Qual é o procedimento para realização de uma aula presencial?
+....
+
+A proposta do nosso guia é que os integrantes do curso se envolvam com
+a produção do guia, mantendo-o atualizado e útil.
+
+
+=== Livros do curso
+
+Todos os livros do curso estão disponíveis para download, inclusive
+este guia, consulte o capítulo dos livros (<<cap_a_livros>>).
+
+////
+Sempre termine os arquivos com uma linha em branco.
+////
+
+
