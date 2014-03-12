@@ -21,8 +21,8 @@ Você pode acessar o conteúdo do guia das seguintes forma:
 * {blob}/capitulos/colaboracao.adoc[]
 
 = Guia dos Alunos =
-* {blob}/capitulos/curso.asc[]
-* {blob}/capitulos/processo-seletivo-aluno.adoc[]
+* {blob}/capitulos/curso.asc[curso.asc]
+* {blob}/capitulos/processo-seletivo-aluno.adoc[processo-seletivo-aluno.adoc]
 * {blob}/capitulos/alunos-novos.asc[]
 * {blob}/capitulos/alunos.asc[]
 * {blob}/capitulos/livros.asc[]
