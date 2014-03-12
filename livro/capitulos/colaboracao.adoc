@@ -38,6 +38,16 @@ Neste caso você pode atualizar os arquivos de texto do guia em
 Depois de atualizado você envia um Pull Request e aguarda que sua
 alteração seja incorporada ao Guia.
 
+=== Como baixar este guia
+
+Este guia está disponível em duas versões:
+
+Release (estável)::
+{gitrepo}/releases
+
+Versão em desenvolvimento (instável)::
+http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/livro/livro.pdf
+
 
 ////
 Sempre termine os arquivos com uma linha em branco.

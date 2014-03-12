@@ -1,8 +1,16 @@
-== Livro de disciplina
+== Guia Geral do Curso
 
-Este repositório contém um livro de uma disciplina.
+Este repositório contém o Guia Geral do Curso de Licenciatura em
+Computação a distância da UFPB.
 
-Para conhecer o seu processo de produção consulte 
-https://github.com/edusantana/producao-computacao-ead-ufpb.
+Você pode acessar o conteúdo do guia das seguintes forma:
+
+* http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/livro/livro.pdf[Versão
+  em PDF em desenvolvimento] (instável)
+* https://github.com/edusantana/guia-geral-ead-computacao-ufpb/releases[Releases
+  em PDF] (estável)
+* Acessando os capítulos diretamente no
+  https://github.com/edusantana/guia-geral-ead-computacao-ufpb/tree/master/livro/capitulos[repositório].
+
 
 
