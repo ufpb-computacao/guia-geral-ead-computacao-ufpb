@@ -3,9 +3,27 @@
   rudder-doc-docinfo.xml
   DocBook document information file for rudder-doc.txt.
 -->
-  <edition>v1.0.0</edition>
+  <edition>v1.1.0</edition>
 
   <revhistory>
+    <revision>
+      <revnumber>v1.1.0</revnumber>
+      <date>13/03/2014</date>
+      <authorinitials>Eduardo</authorinitials>
+      <revremark>
+- Nova release de guia-geral-ead-computacao-ufpb-v1.1.0.pdf
+- Nova release de introducao-a-arquitetura-de-computadores-livro-v0.3.0.pdf
+- Onde perguntar sobre o mestrado #4
+- Inclusão de seção sobre o Mestrado em Informática na UFPB #4
+- Solicitando declaração com antecedência #6
+- Novas releases são publicadas no facebook do curso #5
+- Capítulo de Apresentação do Guia #3
+- Inserindo link da página do curso
+- Inclusão do link da versão html em produção #3
+      </revremark>
+    </revision>
+
+
     <revision>
       <revnumber>v1.0.0</revnumber>
       <date>12/03/2014</date>
