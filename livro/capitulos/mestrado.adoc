@@ -2,6 +2,7 @@
 
 Site do mestrado:: http://www.ppgi.di.ufpb.br
 Regimento do mestrado:: http://www.ppgi.di.ufpb.br/?page_id=6 
+Onde postar perguntas sobre o mestrado:: {issues}/new
 
 === Recomendações para os alunos que pretendem fazer o mestrado
 
@@ -18,12 +19,10 @@ Regimento do mestrado:: http://www.ppgi.di.ufpb.br/?page_id=6
 
 (((Mestrado, Aluno especial)))
 
-Um aluno especial é um aluno que cursa uma disciplina no mestrado mas
-que ainda não passou no processo seletivo.
-
-Quando ele passar no processo seletivo torna-se um *aluno regular*, em
-seguida pode solicitar o aproveitamento dos créditos cursados como
-especial.
+Um *aluno especial* é um aluno que cursa uma disciplina no mestrado
+mas que ainda não passou no processo seletivo. Ao passar no processo
+torna-se um *aluno regular*, em seguida pode solicitar o
+aproveitamento dos créditos cursados como especial.
 
 ////
 Sempre termine os arquivos com uma linha em branco.
