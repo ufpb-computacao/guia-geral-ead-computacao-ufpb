@@ -1,0 +1,32 @@
+== Mestrado
+
+Site do mestrado:: http://www.ppgi.di.ufpb.br
+Regimento do mestrado:: http://www.ppgi.di.ufpb.br/?page_id=6 
+
+=== Recomendações para os alunos que pretendem fazer o mestrado
+
+* Concorrer ao processo seletivo durante o último período do curso;
+* Manter um CRE alto durante toda a graduação (a média é utilizada
+  como parâmetro para concorrer a bolsa de estudo);
+* Mesmo que não tenha passado no processo seletivo para aluno regular,
+  tentar ingressas como aluno especial
+* Participar de projetos de pesquisa
+* Participar de monitorias
+* Ler o regimento e verificar a pontuação para o processo seletivo
+
+=== O que é um Aluno Especial 
+
+(((Mestrado, Aluno especial)))
+
+Um aluno especial é um aluno que cursa uma disciplina no mestrado mas
+que ainda não passou no processo seletivo.
+
+Quando ele passar no processo seletivo torna-se um *aluno regular*, em
+seguida pode solicitar o aproveitamento dos créditos cursados como
+especial.
+
+////
+Sempre termine os arquivos com uma linha em branco.
+////
+
+
