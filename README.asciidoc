@@ -25,36 +25,37 @@ Você pode acessar o conteúdo do guia das seguintes forma:
 
 === Guia dos Alunos
 * {blob}/capitulos/curso.asc[curso]
-* {blob}/capitulos/processo-seletivo-aluno.adoc[processo seletivo]
+* {blob}/capitulos/processo-seletivo.adoc[processo seletivo]
 * {blob}/capitulos/alunos-novos.asc[alunos-novos]
 * {blob}/capitulos/alunos.asc[alunos]
 * {blob}/capitulos/livros.asc[livros]
-* {blob}/capitulos/web-conferencia-aluno.adoc[web-conferencia]
+* {blob}/capitulos/web-conferencia.adoc[web-conferencia]
 
 === Guia dos Tutores
 * {blob}/capitulos/curso.asc[curso]
-* {blob}/capitulos/processo-seletivo-tutor.adoc[processo seletivo]
+* {blob}/capitulos/processo-seletivo.adoc[processo seletivo]
 * {blob}/capitulos/tutores-novos.asc[tutores novos]
 * {blob}/capitulos/tutores-presenciais.asc[tutores presenciais]
 * {blob}/capitulos/tutores-distancia.asc[tutores a distância]
 * {blob}/capitulos/capacitacao.asc[capacitação]
 * {blob}/capitulos/livros.asc[livros]
-* {blob}/capitulos/web-conferencia-tutor.adoc[web conferência]
+* {blob}/capitulos/web-conferencia.adoc[web conferência]
 
 === Guia dos Professores
 * {blob}/capitulos/curso.asc[curso]
-* {blob}/capitulos/processo-seletivo-professor.adoc[processo seletivo]
+* {blob}/capitulos/processo-seletivo.adoc[processo seletivo]
 * {blob}/capitulos/professores-novos.asc[professores novos]
 * {blob}/capitulos/professores.asc[professores]
 * {blob}/capitulos/livros.asc[livros]
 * {blob}/capitulos/capacitacao.asc[capacitação]
-* {blob}/capitulos/web-conferencia-professor.adoc[web conferência]
+* {blob}/capitulos/web-conferencia.adoc[web conferência]
 
 === Guia dos Polos
 * {blob}/capitulos/curso.asc[curso]
+* {blob}/capitulos/processo-seletivo.adoc[processo seletivo]
 * {blob}/capitulos/polos.asc[polos]
 * {blob}/capitulos/livros.asc[livros]
-* {blob}/capitulos/web-conferencia-polo.adoc[web conferência]
+* {blob}/capitulos/web-conferencia.adoc[web conferência]
 
 === Processos
 
