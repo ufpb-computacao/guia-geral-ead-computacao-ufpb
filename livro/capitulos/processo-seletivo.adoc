@@ -1,0 +1,81 @@
+== Processo Seletivo
+
+ifeval::["{pub}" == "aluno" or "{pub}" == "polo"]
+=== Como ingressar no curso como aluno?
+(((Processo Seletivo, Aluno)))
+
+Desde de 2014.1 para entrar em qualquer curso da UFPB Virtual, o
+candidato terá que se submeter ao ENEM; com a nota obtida, se
+inscreve através de um Edital que será lançado pela UFPB Virtual,
+visto que os nossos cursos não aparecem na lista do SISU.
+
+Para conhecer o calendário de inscrição consulte
+http://portal.virtual.ufpb.br/wordpress/
+
+endif::[]
+
+
+ifeval::["{pub}" == "professor"]
+=== Como ingressar no curso como Professor?
+
+(((Processo Seletivo, Professor)))
+
+Para participar do processo seletivo como professor entre em contato
+com o Coordenador do Curso.
+
+NOTE: Um pré-requisito para participar do curso como professor é ser
+professor da UFPB.
+
+endif::[]
+
+ifeval::["{pub}" == "tutor"]
+=== Como ingressar no curso como tutor?
+
+(((Processo Seletivo, Tutor)))
+
+Os editais para seleção de novos tutores serão publicados em
+http://www.virtual.ufpb.br na seção dos
+http://www.virtual.ufpb.br/wordpress/category/editais/[editais].
+
+NOTE: Os resultados das seleções dos tutores serão divulgados no mesmo local.
+
+endif::[]
+
+
+ifeval::["{pub}" == "aluno" or "{pub}" == "polo"]
+=== Matricula na CODESC
+
+A verificação da documentação dos candidatos aprovados é feita pela
+((CODESC)), órgão da UFPB responsável pelo processo de matrícula. 
+
+A matrícula do aluno pode constar na lista de candidatos não validados.
+Estas ocorrências tem prazo para recursos. Vencido o prazo os
+documentos são devolvidos ao polo. Você deverá em contato com o polo e
+com a CODESC para maiores informações.
+
+As coordenações de curso não tem autonomia para solucionar problemas
+relativos à matrícula.
+
+endif::[]
+
+
+ifeval::["{pub}" == "tutor"]
+==== É possível concorrer a tutoria sem a emissão do diploma?
+
+O documento que pode substituir o ((Diploma)), enquanto ele não
+estiver pronto, é o ((Certificado de Conclusão)) de curso. Você pode
+solicitá-lo na coordenação do seu curso.
+
+==== Devolução de documentos
+Conforme editais, um mês para pegar.
+
+(((Processo Seletivo, Tutor, Devolução de Documentos)))
+
+endif::[]
+
+
+////
+Sempre termine os arquivos com uma linha em branco.
+////
+
+
