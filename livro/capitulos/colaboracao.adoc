@@ -56,8 +56,9 @@ http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/
 
 Diretamente no repositório:: {gitrepo}
 
-=== Webconferência sobre este Guia e a Produção dos livros
+=== Conferência sobre o Guia e a Produção dos livros
 
+Link da conferência gravada:: http://webconf2.rnp.br/p54ogecb8jk/
 
 .CONTEÚDOS DA CONFERÊNCIA
 ....
