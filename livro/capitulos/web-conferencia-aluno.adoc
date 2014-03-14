@@ -8,10 +8,12 @@ Todas as web-conferências da UFPB são transmitidas pelo mesmo link,
 para você assistir a sua conferência deve aguardar o horário de
 veiculação.
 
-Link da webconferência:: http://webconf2.rnp.br
+Link da webconferência:: http://webconf2.rnp.br/uab_ufpb
 
-NOTE: Se você acessou a página e está solicitando _login_ e _senha_ é
-porque você está acessando o link fora do horário da webconferência.
+.Página da Webconferência
+image::images/webconf.png[]
+
+NOTE: Informe o seu nome e clique em `Entrar na sala`.
 
 === Calendário de Web Conferência
 
