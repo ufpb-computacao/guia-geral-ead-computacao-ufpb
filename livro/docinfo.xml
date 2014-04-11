@@ -3,9 +3,29 @@
   rudder-doc-docinfo.xml
   DocBook document information file for rudder-doc.txt.
 -->
-  <edition>v1.1.0</edition>
+  <edition>v1.1.1</edition>
 
   <revhistory>
+    <revision>
+      <revnumber>v1.1.1</revnumber>
+      <date>10/04/2014</date>
+      <authorinitials>Eduardo</authorinitials>
+      <revremark>
+- Cancelamento de Matrícula #10
+- Nova release matematica-elementar-livro-v1.1.0.pdf
+- Nova release estruturas-de-dados-livro-v0.3.0.pdf
+- Nova release linguagem-de-programacao-i-livro-v0.5.0.pdf
+- Update README.asciidoc
+- Disponibilização da gravação da webconf sobre o guia #8
+- Junção dos arquivos por tema #9
+- Local de notificação do moodle fora do ar
+- Correção de formatação no capítulo do moodle
+- Remoção de texto que não tem significado no curso.
+- Atualização do link da webconferência #8
+      </revremark>
+    </revision>
+
+
     <revision>
       <revnumber>v1.1.0</revnumber>
       <date>13/03/2014</date>
