@@ -4,16 +4,6 @@ Este repositório contém o Guia Geral do
 http://portal.virtual.ufpb.br/wordpress/cursos/computacao/[Curso de Licenciatura em
 Computação a distância da UFPB].
 
-Você pode acessar o conteúdo do guia das seguintes forma:
-
-* http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/livro/livro.chunked/[Versão
-  em HTML] (instável)
-* http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/livro/livro.pdf[Versão
-  PDF em desenvolvimento] (instável)
-* https://github.com/edusantana/guia-geral-ead-computacao-ufpb/releases[Releases
-  PDF] (estável)
-* Acessando os capítulos diretamente no repositório
-
 == Sumário dos arquivos
 
 :blob: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro
