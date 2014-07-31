@@ -13,3 +13,4 @@ https://github.com/edusantana/computacao-periodo2-livro/releases/download/v1.0.0
 
 https://github.com/edusantana/estruturas-de-dados-livro/releases/download/v0.3.0/estruturas-de-dados-livro-v0.3.0.pdf
 https://github.com/edusantana/introducao-a-arquitetura-de-computadores-livro/releases/download/v0.4.0/introducao-a-arquitetura-de-computadores-livro-v0.4.0.pdf
+https://github.com/edusantana/matematica-computacional-livro/releases/download/v0.9.1/matematica-computacional-livro-v0.9.1.pdf
