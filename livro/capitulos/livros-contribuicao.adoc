@@ -2,11 +2,11 @@
 
 (((Livros))) (((Contribuição)))
 
-Nós incentivamos nossos *alumos* a contribuirem com melhorias
-para material didático do curso. Encontrou algum *êrro* no livro?
+Nós incentivamos nossos alunos a contribuirem com melhorias
+para material didático do curso. Encontrou algum erro no *livru*?
 Fale pra gente!
 
-Nesta seção você verá:
+Nesta seção será apresentado:
 
 * Requisitos para contribuição
 * Como contribuir com os livros
@@ -89,9 +89,16 @@ Período 4: +
 https://github.com/edusantana/estatistica-livro/issues/new
 
 
-=== Conteúdo relacionado
+=== Métodos avançados de contribuição
 
+* https://help.github.com/[baixar o livro utilizando o git]
+* alterar o código/texto do livro
+* realizar um pull request com as alterações
 
+=== Seções relacionadas
+
+* https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos/livros.asc[livros.asc]
+* https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos/links-para-baixar-os-livros.txt[links-para-baixar-os-livros.txt]
 
 ////
 Sempre termine os arquivos com uma linha em branco.
