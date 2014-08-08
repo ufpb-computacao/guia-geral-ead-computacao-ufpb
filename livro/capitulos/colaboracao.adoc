@@ -3,13 +3,13 @@
 
 (((Colaboração)))
 
-Como primeiro parágrafo do guia, gostaria de ressaltar o aspecto mais 
-importante dele: *o sucesso e confiança deste guia depende de VOCÊ, 
+Como primeiro parágrafo do guia, gostaria de ressaltar o aspecto mais
+importante dele: *o sucesso e confiança deste guia depende de VOCÊ,
 da sua Colaboração*.
 
-Este documento foi concebido para ser uma *produção colaborativa*, 
-onde todos os envolvidos com o curso possam enviar suas contribuições 
-para manter este guia atualizado e útil.
+Este documento foi concebido para ser uma *produção colaborativa*,
+onde todos os envolvidos com o curso possam enviar suas contribuições
+para mantê-lo atualizado e útil.
 
 === Como você pode contribuir com o Guia
 
@@ -22,7 +22,7 @@ escrever qual a contribuição que está faltando, exemplo:
 ....
 
 Na seção "Dispensa de Disciplina", ficou faltando informar
-se o aluno deve cursar a disciplina enquanto o processo de 
+se o aluno deve cursar a disciplina enquanto o processo de
 dispensa ainda está sendo executado.
 
 ....
@@ -84,4 +84,3 @@ Link da conferência gravada:: http://webconf2.rnp.br/p54ogecb8jk/
 ////
 Sempre termine os arquivos com uma linha em branco.
 ////
-

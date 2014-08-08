@@ -1,0 +1,98 @@
+== Contribuindo com os Livros do Curso
+
+(((Livros))) (((Contribuição)))
+
+Nós incentivamos nossos *alumos* a contribuirem com melhorias
+para material didático do curso. Encontrou algum *êrro* no livro?
+Fale pra gente!
+
+Nesta seção você verá:
+
+* Requisitos para contribuição
+* Como contribuir com os livros
+* Escolhendo um livro para contribuir
+* Métodos avançados de contribuição
+
+
+=== Requisitos para contribuição
+
+Todos os livros que produzimos estão armazenados no
+https://github.com[github]. Embora você possa baixar os livros
+sem um login, *para realizar contribuições é necessário criar um login* (_sign up_).
+
+Link para criar uma conta no github: https://github.com/join
+
+TIP: Depois que você criou uma conta de usuário, recomendo realizar o
+*logout* para aprender a fazer o *login*.
+Faça o logout em https://github.com/logout.
+
+Entre em https://github.com e faça o *login* (_sign in_).
+
+Esta conta é o único requisito para contribuir com os livros.
+
+=== Como contribuir com os livros
+
+Uma contribuição pode consistir apenas em *o que* precisa ser
+modificado e *onde*. Você pode utiliza o texto a seguir para compor
+sua contribuição:
+
+.Título da contribuição
+....
+
+*Erro*:
+
+> Indique o erro aqui.
+
+*Localização do erro*: Capítulo X, pág Y, versão `v?.?.?`.
+
+*Correção*:
+
+Indique correção/sugestão aqui.
+
+....
+
+Quando uma contribuição (_issue_) é cadastrada, você e todos os
+envolvidos na produção do livro poderão discutir sobre ela. Você
+receberá notificação sobre a resolução final também.
+
+TIP: Ao compor mensagens no github você pode utilizar as formatações
+do https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet[Markdown].
+
+
+=== Escolhendo um livro para contribuir
+
+Os links a seguir são para criação de um _issue_ nos livros do curso,
+escolha qual o livro que deseja deixar sua contribuição:
+
+Este guia: +
+https://github.com/edusantana/guia-geral-ead-computacao-ufpb/issues/new
+
+Período 1: +
+https://github.com/edusantana/fundamentos-socio-historico-da-educacao-livro/issues/new +
+https://github.com/edusantana/introducao-a-computacao-livro/issues/new +
+https://github.com/edusantana/introducao-a-ead-livro/issues/new +
+https://github.com/edusantana/introducao-a-programacao-livro/issues/new +
+https://github.com/edusantana/matematica-elementar-livro/issues/new +
+
+Período 2: +
+https://github.com/edusantana/calculo-diferencial-e-integral-livro/issues/new +
+https://github.com/edusantana/fundamentos-psicologicos-da-educacao-livro/issues/new +
+https://github.com/edusantana/linguagem-de-programacao-i-livro/issues/new +
+https://github.com/edusantana/metodologia-do-trabalho-cientifico-livro/issues/new +
+
+Período 3: +
+https://github.com/edusantana/estruturas-de-dados-livro/issues/new +
+https://github.com/edusantana/introducao-a-arquitetura-de-computadores-livro/issues/new +
+https://github.com/edusantana/matematica-computacional-livro/issues/new +
+
+Período 4: +
+https://github.com/edusantana/estatistica-livro/issues/new
+
+
+=== Conteúdo relacionado
+
+
+
+////
+Sempre termine os arquivos com uma linha em branco.
+////
