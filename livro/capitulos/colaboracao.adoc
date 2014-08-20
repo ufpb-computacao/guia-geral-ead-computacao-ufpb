@@ -38,25 +38,11 @@ https://github.com/edusantana/guia-geral-ead-computacao-ufpb/tree/master/livro/c
 Depois de atualizado você envia um Pull Request e aguarda que sua
 alteração seja incorporada ao Guia.
 
-=== Como baixar este guia
-
-Este guia está disponível em três versões:
-
-Release (estável)::
-https://github.com/edusantana/guia-geral-ead-computacao-ufpb/releases
-
-Versão em desenvolvimento (instável)::
-http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/livro/livro.pdf
-
-
 ==== Para acessar o Guia on-line
-
-Versão em desenvolvimento (instável)::
-http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/livro/livro.chunked/index.html
 
 Diretamente no repositório:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb
 
-=== Conferência sobre o Guia e a Produção dos livros
+=== Conferência gravada sobre o Guia e a Produção dos livros
 
 Link da conferência gravada:: http://webconf2.rnp.br/p54ogecb8jk/
 
@@ -79,7 +65,6 @@ Link da conferência gravada:: http://webconf2.rnp.br/p54ogecb8jk/
 == Submetendo correções (Pull Request)
 = Como os livros são produzidos
 ....
-
 
 ////
 Sempre termine os arquivos com uma linha em branco.

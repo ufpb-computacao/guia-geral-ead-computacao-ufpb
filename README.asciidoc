@@ -8,8 +8,6 @@ Computação a distância da UFPB].
 
 :cap: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos
 
-* {cap}/prefacio.asc[prefacio]
-
 === Apresentação do Guia Geral do Curso
 * {cap}/colaboracao.adoc[colaboracao]
 
