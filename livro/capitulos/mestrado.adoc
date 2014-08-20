@@ -2,7 +2,7 @@
 
 Site do mestrado:: http://www.ppgi.di.ufpb.br
 Regimento do mestrado:: http://www.ppgi.di.ufpb.br/?page_id=6 
-Onde postar perguntas sobre o mestrado:: {issues}/new
+Onde postar perguntas sobre o mestrado:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/issues/new
 
 === Recomendações para os alunos que pretendem fazer o mestrado
 

@@ -16,7 +16,7 @@ para mantê-lo atualizado e útil.
 Lendo o guia e solicitando atualizar o guia::
 Após ler o guia você percebe que faltou explicação de algum conteúdo,
 então você pode ir em
-{issues}/new e
+https://github.com/edusantana/guia-geral-ead-computacao-ufpb/issues/new e
 escrever qual a contribuição que está faltando, exemplo:
 +
 ....
@@ -29,12 +29,12 @@ dispensa ainda está sendo executado.
 
 Discutindo as solicitações::
 Você pode consultar as solicitações em
-{issues} e
+https://github.com/edusantana/guia-geral-ead-computacao-ufpb/issues e
 participar das discussões nas solicitações:
 
 Atualizando o guia::
 Neste caso você pode atualizar os arquivos de texto do guia em
-{gitrepo}/tree/master/livro/capitulos.
+https://github.com/edusantana/guia-geral-ead-computacao-ufpb/tree/master/livro/capitulos.
 Depois de atualizado você envia um Pull Request e aguarda que sua
 alteração seja incorporada ao Guia.
 
@@ -43,7 +43,7 @@ alteração seja incorporada ao Guia.
 Este guia está disponível em três versões:
 
 Release (estável)::
-{gitrepo}/releases
+https://github.com/edusantana/guia-geral-ead-computacao-ufpb/releases
 
 Versão em desenvolvimento (instável)::
 http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/livro/livro.pdf
@@ -54,7 +54,7 @@ http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/
 Versão em desenvolvimento (instável)::
 http://producao.virtual.ufpb.br/books/edusantana/guia-geral-ead-computacao-ufpb/livro/livro.chunked/index.html
 
-Diretamente no repositório:: {gitrepo}
+Diretamente no repositório:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb
 
 === Conferência sobre o Guia e a Produção dos livros
 

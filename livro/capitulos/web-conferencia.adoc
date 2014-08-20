@@ -17,7 +17,13 @@ NOTE: Informe o seu nome e clique em `Entrar na sala`.
 
 
 === Marcar uma nova webconferência
-ifeval::["{pub}" == "aluno"]
+
+* Pelos alunos
+* Pelos tutores
+* Pelos professores
+* Pelos polos
+
+==== Pelos Alunos
 Embora o usual seja os professores e tutores marcarem webconferências,
 não há impedimentos para os alunos marcarem também.
 
@@ -26,31 +32,25 @@ Web-conferência para discutir entre si as melhorias para o curso.
 
 Caso desejem marcarem uma webconferência entrem em contato com a
 coordenação do curso.
-endif::[]
 
-ifeval::["{pub}" == "tutor"]
+==== Pelos Tutores
+
 Caso o tutor de uma disciplina deseje realizar uma Web Conferência, ele poderá
 entrar em contato com o professor da disciplina e juntos contactar a
 equipe de webconferência diretamente.
 endif::[]
 
-ifeval::["{pub}" == "professor"]
+==== Pelos Professores
 Caso o professor de uma disciplina deseje realizar uma Web Conferência, ele poderá
 contactar a equipe de webconferência diretamente.
 
 Agende sua WebConferência:: http://www.ead.ufpb.br/course/view.php?id=448
-endif::[]
 
-ifeval::["{pub}" == "polo"]
+==== Pelos polos
 Até o momento não tivemos nenhuma demanda dos polos solicitando a
 realização de uma Web Conferência, mas não há impedimentos para isto.
 
 Caso desejem marcar uma, entre em contato com a coordenação do curso.
-endif::[]
-
-
-
-
 
 ////
 Sempre termine os arquivos com uma linha em branco.

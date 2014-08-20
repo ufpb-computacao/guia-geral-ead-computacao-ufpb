@@ -1,60 +1,53 @@
 == Guia Geral do Curso
 
-Este repositório contém o Guia Geral do 
+Este repositório contém o Guia Geral do
 http://portal.virtual.ufpb.br/wordpress/cursos/computacao/[Curso de Licenciatura em
 Computação a distância da UFPB].
 
 == Sumário dos arquivos
 
-:blob: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro
+:cap: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos
 
-* {blob}/capitulos/prefacio.asc[prefacio]
+* {cap}/prefacio.asc[prefacio]
 
-=== Apresentação do Guia Geral do Curso 
-* {blob}/capitulos/colaboracao.adoc[colaboracao]
+=== Apresentação do Guia Geral do Curso
+* {cap}/colaboracao.adoc[colaboracao]
+
+=== Comum a todos
+
+* {cap}/curso.asc[curso]
+* {cap}/livros.asc[livros]
+** {cap}/livros-contribuicao.adoc[livros-contribuicao]
+* {cap}/web-conferencia.adoc[web-conferencia]
 
 === Guia dos Alunos
-* {blob}/capitulos/curso.asc[curso]
-* {blob}/capitulos/processo-seletivo.adoc[processo seletivo]
-* {blob}/capitulos/alunos-novos.asc[alunos-novos]
-* {blob}/capitulos/alunos.asc[alunos]
-* {blob}/capitulos/livros.asc[livros]
-* {blob}/capitulos/web-conferencia.adoc[web-conferencia]
+* {cap}/processo-seletivo-aluno.adoc[processo seletivo para quem deseja ser aluno]
+* {cap}/alunos-novos.asc[alunos-novos]
+* {cap}/alunos.asc[alunos]
+* {cap}/mestrado.asc[alunos]
 
 === Guia dos Tutores
-* {blob}/capitulos/curso.asc[curso]
-* {blob}/capitulos/processo-seletivo.adoc[processo seletivo]
-* {blob}/capitulos/tutores-novos.asc[tutores novos]
-* {blob}/capitulos/tutores-presenciais.asc[tutores presenciais]
-* {blob}/capitulos/tutores-distancia.asc[tutores a distância]
-* {blob}/capitulos/capacitacao.asc[capacitação]
-* {blob}/capitulos/livros.asc[livros]
-* {blob}/capitulos/web-conferencia.adoc[web conferência]
+* {cap}/processo-seletivo-tutor.adoc[processo seletivo para tutores]
+* {cap}/tutores-novos.asc[tutores novos]
+* {cap}/tutores-presenciais.asc[tutores presenciais]
+* {cap}/tutores-distancia.asc[tutores a distância]
+* {cap}/capacitacao.asc[capacitação]
 
 === Guia dos Professores
-* {blob}/capitulos/curso.asc[curso]
-* {blob}/capitulos/processo-seletivo.adoc[processo seletivo]
-* {blob}/capitulos/professores-novos.asc[professores novos]
-* {blob}/capitulos/professores.asc[professores]
-* {blob}/capitulos/livros.asc[livros]
-* {blob}/capitulos/capacitacao.asc[capacitação]
-* {blob}/capitulos/web-conferencia.adoc[web conferência]
+* {cap}/processo-seletivo-professor.adoc[processo seletivo para professores]
+* {cap}/professores-novos.asc[professores novos]
+* {cap}/professores.asc[professores]
 
 === Guia dos Polos
-* {blob}/capitulos/curso.asc[curso]
-* {blob}/capitulos/processo-seletivo.adoc[processo seletivo]
-* {blob}/capitulos/polos.asc[polos]
-* {blob}/capitulos/livros.asc[livros]
-* {blob}/capitulos/web-conferencia.adoc[web conferência]
+* {cap}/polos.asc[polos]
 
 === Processos
 
-* {blob}/capitulos/p-matricula.asc[matricula]
-* {blob}/capitulos/p-aulas-presenciais.asc[aulas presenciais]
-* {blob}/capitulos/p-avaliacao-presencial.asc[avaliação presencial]
-* {blob}/capitulos/p-dispensa-disciplina.asc[dispensa de disciplina]
+* {cap}/p-matricula.asc[matricula]
+* {cap}/p-dispensa-disciplina.asc[dispensa de disciplina]
+* {cap}/p-aulas-presenciais.asc[aulas presenciais]
+* {cap}/p-avaliacao-presencial.asc[avaliação presencial]
 
 === Outros
-* {blob}/capitulos/moodle.asc[moodle]
-* {blob}/capitulos/glossario.asc[glossário]
-
+* {cap}/moodle.asc[moodle]
+* {cap}/glossario.asc[glossário]
