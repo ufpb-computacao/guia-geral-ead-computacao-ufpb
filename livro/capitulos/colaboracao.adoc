@@ -1,5 +1,5 @@
 [[cap_colaboracao]]
-== Construção Colaborativa
+== Construção Colaborativa dos livros
 
 (((Colaboração)))
 

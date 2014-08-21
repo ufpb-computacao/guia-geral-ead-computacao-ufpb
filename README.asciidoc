@@ -4,48 +4,45 @@ Este repositório contém o Guia Geral do
 http://portal.virtual.ufpb.br/wordpress/cursos/computacao/[Curso de Licenciatura em
 Computação a distância da UFPB].
 
-== Sumário dos arquivos
-
 :cap: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos
 
-=== Apresentação do Guia Geral do Curso
+= Apresentação do Guia Geral do Curso =
 * {cap}/colaboracao.adoc[colaboracao]
 
-=== Comum a todos
+= Comum a todos =
 
-* {cap}/curso.asc[curso]
-* {cap}/livros.asc[livros]
+* {cap}/curso.asc[O Curso de Licenciatura em Computação a Distância]
+* {cap}/livros.asc[Livros do Curso]
 ** {cap}/livros-contribuicao.adoc[livros-contribuicao]
 * {cap}/web-conferencia.adoc[web-conferencia]
 
-=== Guia dos Alunos
+= Guia dos Alunos =
 * {cap}/processo-seletivo-aluno.adoc[processo seletivo para quem deseja ser aluno]
-* {cap}/alunos-novos.asc[alunos-novos]
-* {cap}/alunos.asc[alunos]
-* {cap}/mestrado.asc[alunos]
+* {cap}/alunos-novos.asc[Alunos novos]
+* {cap}/alunos.asc[Alunos]
+* {cap}/mestrado.asc[Mestrado]
 
-=== Guia dos Tutores
+= Guia dos Tutores =
 * {cap}/processo-seletivo-tutor.adoc[processo seletivo para tutores]
 * {cap}/tutores-novos.asc[tutores novos]
 * {cap}/tutores-presenciais.asc[tutores presenciais]
 * {cap}/tutores-distancia.asc[tutores a distância]
 * {cap}/capacitacao.asc[capacitação]
 
-=== Guia dos Professores
+= Guia dos Professores =
 * {cap}/processo-seletivo-professor.adoc[processo seletivo para professores]
 * {cap}/professores-novos.asc[professores novos]
 * {cap}/professores.asc[professores]
 
-=== Guia dos Polos
+= Guia dos Polos =
 * {cap}/polos.asc[polos]
 
-=== Processos
-
+= Processos =
 * {cap}/p-matricula.asc[matricula]
 * {cap}/p-dispensa-disciplina.asc[dispensa de disciplina]
 * {cap}/p-aulas-presenciais.asc[aulas presenciais]
 * {cap}/p-avaliacao-presencial.asc[avaliação presencial]
 
-=== Outros
+= Outros =
 * {cap}/moodle.asc[moodle]
 * {cap}/glossario.asc[glossário]
