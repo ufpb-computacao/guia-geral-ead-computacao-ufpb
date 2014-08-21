@@ -2,7 +2,7 @@
 
 Versão online:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos/livros-contribuicao.adoc
 
-(((Livros))) (((Contribuição)))
+(((Livros, Contribuição)))
 
 Nós incentivamos nossos alunos a contribuirem com melhorias
 para material didático do curso. Encontrou algum erro no *livru*?

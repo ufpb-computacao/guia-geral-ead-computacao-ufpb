@@ -15,6 +15,8 @@ http://portal.virtual.ufpb.br/wordpress/
 
 === Matricula na CODESC
 
+(((Matricula, Problemas)))
+
 A verificação da documentação dos candidatos aprovados é feita pela
 ((CODESC)), órgão da UFPB responsável pelo processo de matrícula.
 

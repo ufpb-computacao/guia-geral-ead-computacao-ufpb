@@ -2,6 +2,7 @@
 
 Versão online:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos/guia.adoc
 
+(((Guia Geral do Curso)))
 
 === Guia geral do curso recomendado pelo MEC
 

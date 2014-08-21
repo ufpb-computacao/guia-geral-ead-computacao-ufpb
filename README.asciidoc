@@ -37,6 +37,7 @@ Computação a distância da UFPB].
 * {cap}/tutores-distancia.asc[tutores a distância]
 
 = Comum a Tutores e Professores =
+* {cap}/cadastro.asc[cadastro]
 * {cap}/capacitacao.asc[capacitação]
 
 = Guia dos Professores =

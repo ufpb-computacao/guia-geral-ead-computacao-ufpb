@@ -1,5 +1,7 @@
 == Mestrado
 
+(((Mestrado)))
+
 Versão online:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos/mestrado.adoc
 
 Site do mestrado:: http://www.ppgi.di.ufpb.br
@@ -7,6 +9,9 @@ Regimento do mestrado:: http://www.ppgi.di.ufpb.br/?page_id=6
 Onde postar perguntas sobre o mestrado:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/issues/new
 
 === Recomendações para os alunos que pretendem fazer o mestrado
+
+(((Mestrado, Recomendações)))
+
 
 * Concorrer ao processo seletivo durante o último período do curso;
 * Manter um CRE alto durante toda a graduação (a média é utilizada
