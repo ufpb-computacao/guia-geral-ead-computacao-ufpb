@@ -1,4 +1,4 @@
-== Guia Geral do Curso
+= Guia Geral do Curso
 
 Este repositório contém o Guia Geral do
 http://portal.virtual.ufpb.br/wordpress/cursos/computacao/[Curso de Licenciatura em
@@ -7,7 +7,8 @@ Computação a distância da UFPB].
 :cap: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos
 
 = Apresentação do Guia Geral do Curso =
-* {cap}/colaboracao.adoc[colaboracao]
+* {cap}/guia.adoc[Guia]
+* {cap}/guia-colaboracao.adoc[Guia Colaboração]
 
 = Comum a todos =
 
@@ -22,11 +23,19 @@ Computação a distância da UFPB].
 * {cap}/alunos.asc[Alunos]
 * {cap}/mestrado.asc[Mestrado]
 
+= Processos =
+* {cap}/p-matricula.asc[matricula]
+* {cap}/p-dispensa-disciplina.asc[dispensa de disciplina]
+* {cap}/p-aulas-presenciais.asc[aulas presenciais]
+* {cap}/p-avaliacao-presencial.asc[avaliação presencial]
+
 = Guia dos Tutores =
 * {cap}/processo-seletivo-tutor.adoc[processo seletivo para tutores]
 * {cap}/tutores-novos.asc[tutores novos]
 * {cap}/tutores-presenciais.asc[tutores presenciais]
 * {cap}/tutores-distancia.asc[tutores a distância]
+
+= Comum a Tutores e Professores =
 * {cap}/capacitacao.asc[capacitação]
 
 = Guia dos Professores =
@@ -36,12 +45,6 @@ Computação a distância da UFPB].
 
 = Guia dos Polos =
 * {cap}/polos.asc[polos]
-
-= Processos =
-* {cap}/p-matricula.asc[matricula]
-* {cap}/p-dispensa-disciplina.asc[dispensa de disciplina]
-* {cap}/p-aulas-presenciais.asc[aulas presenciais]
-* {cap}/p-avaliacao-presencial.asc[avaliação presencial]
 
 = Outros =
 * {cap}/moodle.asc[moodle]

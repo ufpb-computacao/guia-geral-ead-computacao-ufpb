@@ -1,9 +1,11 @@
 [[cap_colaboracao]]
 == Construção Colaborativa dos livros
 
+Versão online:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos/guia-colaboracao.adoc
+
 (((Colaboração)))
 
-Como primeiro parágrafo do guia, gostaria de ressaltar o aspecto mais
+Gostaria de ressaltar o aspecto mais
 importante dele: *o sucesso e confiança deste guia depende de VOCÊ,
 da sua Colaboração*.
 

@@ -2,7 +2,7 @@
 
 === Guia geral do curso recomendado pelo MEC
 
-O MEC publicou um documento chamado 
+O MEC publicou um documento chamado
 ``Referenciais de Qualidade para Educação Superior a Distância''
 que se encontra disponível para download em:
 http://portal.mec.gov.br/seed/arquivos/pdf/legislacao/refead1.pdf
@@ -60,7 +60,7 @@ decidimos incluir informações para as outros integrantes do curso:
 
 [IMPORTANT]
 ====
-Na organização deste Guia, decidimos reservar a primeira parte para 
+Na organização deste Guia, decidimos reservar a primeira parte para
 apresentação do guia, seguida de uma parte para cada papel: *aluno, tutor,
 professor e polos*:
 
@@ -97,10 +97,8 @@ a produção do guia, mantendo-o atualizado e útil.
 === Livros do curso
 
 Todos os livros do curso estão disponíveis para download, inclusive
-este guia, consulte o capítulo dos livros (<<cap_a_livros>>).
+este guia, consulte o capítulo dos livros (<<cap_livros>>).
 
 ////
 Sempre termine os arquivos com uma linha em branco.
 ////
-
-
