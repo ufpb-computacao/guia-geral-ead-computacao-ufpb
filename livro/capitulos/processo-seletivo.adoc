@@ -1,5 +1,7 @@
 == Processo Seletivo
 
+Versão online:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos/processo-seletivo.adoc
+
 ifeval::["{pub}" == "aluno" or "{pub}" == "polo"]
 === Como ingressar no curso como aluno?
 (((Processo Seletivo, Aluno)))
@@ -46,7 +48,7 @@ ifeval::["{pub}" == "aluno" or "{pub}" == "polo"]
 === Matricula na CODESC
 
 A verificação da documentação dos candidatos aprovados é feita pela
-((CODESC)), órgão da UFPB responsável pelo processo de matrícula. 
+((CODESC)), órgão da UFPB responsável pelo processo de matrícula.
 
 A matrícula do aluno pode constar na lista de candidatos não validados.
 Estas ocorrências tem prazo para recursos. Vencido o prazo os
@@ -77,5 +79,3 @@ endif::[]
 ////
 Sempre termine os arquivos com uma linha em branco.
 ////
-
-

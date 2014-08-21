@@ -1,5 +1,7 @@
 == Web Conferência
 
+Versão online:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos/web-conferencia.adoc
+
 (((Web Conferência)))
 
 === Link para WebConferência
@@ -55,5 +57,3 @@ Caso desejem marcar uma, entre em contato com a coordenação do curso.
 ////
 Sempre termine os arquivos com uma linha em branco.
 ////
-
-

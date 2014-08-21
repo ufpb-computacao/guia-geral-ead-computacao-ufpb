@@ -1,7 +1,9 @@
 == Mestrado
 
+Versão online:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos/mestrado.adoc
+
 Site do mestrado:: http://www.ppgi.di.ufpb.br
-Regimento do mestrado:: http://www.ppgi.di.ufpb.br/?page_id=6 
+Regimento do mestrado:: http://www.ppgi.di.ufpb.br/?page_id=6
 Onde postar perguntas sobre o mestrado:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/issues/new
 
 === Recomendações para os alunos que pretendem fazer o mestrado
@@ -15,7 +17,7 @@ Onde postar perguntas sobre o mestrado:: https://github.com/edusantana/guia-gera
 * Participar de monitorias
 * Ler o regimento e verificar a pontuação para o processo seletivo
 
-=== O que é um Aluno Especial 
+=== O que é um Aluno Especial
 
 (((Mestrado, Aluno especial)))
 
@@ -27,5 +29,3 @@ aproveitamento dos créditos cursados como especial.
 ////
 Sempre termine os arquivos com uma linha em branco.
 ////
-
-

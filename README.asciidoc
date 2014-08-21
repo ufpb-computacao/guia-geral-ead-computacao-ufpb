@@ -28,6 +28,7 @@ Computação a distância da UFPB].
 * {cap}/p-dispensa-disciplina.asc[dispensa de disciplina]
 * {cap}/p-aulas-presenciais.asc[aulas presenciais]
 * {cap}/p-avaliacao-presencial.asc[avaliação presencial]
+* {cap}/p-reposicao.asc[Reposição]
 
 = Guia dos Tutores =
 * {cap}/processo-seletivo-tutor.adoc[processo seletivo para tutores]

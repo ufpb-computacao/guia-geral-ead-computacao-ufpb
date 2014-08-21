@@ -1,4 +1,6 @@
-== Processo Seletivo
+== Processo Seletivo para Tutor
+
+Versão online:: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos/processo-seletivo-tutor.adoc
 
 === Para novos tutores
 
@@ -25,5 +27,3 @@ Conforme editais, um mês para pegar.
 ////
 Sempre termine os arquivos com uma linha em branco.
 ////
-
-
