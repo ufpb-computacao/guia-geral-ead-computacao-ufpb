@@ -21,7 +21,7 @@ Computação a distância da UFPB].
 * {cap}/processo-seletivo-aluno.adoc[processo seletivo para quem deseja ser aluno]
 * {cap}/alunos-novos.asc[Alunos novos]
 * {cap}/alunos.asc[Alunos]
-* {cap}/mestrado.asc[Mestrado]
+* {cap}/mestrado.adoc[Mestrado]
 
 = Processos =
 * {cap}/p-matricula.asc[matricula]
