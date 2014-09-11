@@ -103,6 +103,10 @@ a produção do guia, mantendo-o atualizado e útil.
 Todos os livros do curso estão disponíveis para download, inclusive
 este guia, consulte o capítulo dos livros (<<cap_livros>>).
 
+=== Manual do Estudante (UFPB)
+
+http://issuu.com/ufpbemrevista/docs/manual_do_estudante_ufpb_digital
+
 ////
 Sempre termine os arquivos com uma linha em branco.
 ////
