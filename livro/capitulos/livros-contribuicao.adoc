@@ -19,10 +19,15 @@ Nesta seção será apresentado:
 === Requisitos para contribuição
 
 Todos os livros que produzimos estão armazenados no
-https://github.com[github]. *É necessário criar um login (_sign up_)
+https://github.com[github]. 
+
+[IMPORTANT]
+====
+*É necessário criar um login (_sign up_)
 no github para poder realizar contribuições*. 
 
 Link para criar uma login/conta no github acesse https://github.com/join
+====
 
 TIP: Depois que você criou uma conta de usuário, recomendo realizar o
 *logout* para aprender a fazer o *login*.
@@ -30,7 +35,7 @@ Faça o logout acessando https://github.com/logout.
 
 Entre em https://github.com e faça o *login* (_sign in_).
 
-Esta conta é o único requisito para contribuir com os livros.
+A criação da conta é o único requisito para contribuir com os livros.
 
 ==== Por que utilizar o github para receber?
 
