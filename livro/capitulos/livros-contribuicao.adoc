@@ -19,26 +19,56 @@ Nesta seção será apresentado:
 === Requisitos para contribuição
 
 Todos os livros que produzimos estão armazenados no
-https://github.com[github]. Embora você possa baixar os livros
-sem um login, *para realizar contribuições é necessário criar um login* (_sign up_).
+https://github.com[github]. *É necessário criar um login (_sign up_)
+no github para poder realizar contribuições*. 
 
-Link para criar uma conta no github: https://github.com/join
+Link para criar uma login/conta no github acesse https://github.com/join
 
 TIP: Depois que você criou uma conta de usuário, recomendo realizar o
 *logout* para aprender a fazer o *login*.
-Faça o logout em https://github.com/logout.
+Faça o logout acessando https://github.com/logout.
 
 Entre em https://github.com e faça o *login* (_sign in_).
 
 Esta conta é o único requisito para contribuir com os livros.
 
-=== Como contribuir com os livros
+==== Por que utilizar o github para receber?
+
+O github possui um recurso chamado *issues*, que se assemelha a 
+um número de protocolo de atendimento. Ao criar um issue 
+(ex: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/issues/8[#8])
+especificamos os detalhes dele. O issue fica em aberto, aguardando antedimento,
+todos os encaminhamentos sobre ele ficarão registrados nele.
+
+Quando uma contribuição (_issue_) é cadastrada, você e todos os
+envolvidos na produção do livro poderão discutir sobre ela. Todos
+os envolvidos com o livro, e você, serão notificados a cada
+nova postagem na discussão do issue, inclusive sua resolução.
+
+Através dos issues podemos monitorar quais solicitações recebam atenção e 
+em que estados elas estão.
+
+
+=== Enviando contribuição através do link no final dos capítulos
+
+Nas novas versões dos nossos livros, ao final de cada capítulo encontramos
+uma caixa em que o leitor é incentivado a realizar um feedback sobre o capítulo.
+Ao clicar no link indicado, o aluno é direcionado ao repositório específico 
+do livro que está lendo. Neste caso, a página aberta já preenchida
+com as informações do capítulo e versão do livro que o aluno estava acessando.
+Adicione os detalhes do seu feedback e clique em `Submit`.
+
+NOTE: Este é o método preferencial para submissão de feedback, uma
+vez que ele já preenche as informações do capítulo e versão do livro
+que está sendo utilizado, além de ser prático.
+
+=== Como pode ser uma contribuição?
 
 Uma contribuição pode consistir apenas em *o que* precisa ser
-modificado e *onde*. Você pode utiliza o texto a seguir para compor
+modificado e *onde*. Você pode utilizar o texto a seguir para compor
 sua contribuição:
 
-.Título da contribuição
+.Título da contribuição/feedback
 ....
 
 *Erro*:
@@ -52,10 +82,6 @@ sua contribuição:
 Indique correção/sugestão aqui.
 
 ....
-
-Quando uma contribuição (_issue_) é cadastrada, você e todos os
-envolvidos na produção do livro poderão discutir sobre ela. Você
-receberá notificação sobre a resolução final também.
 
 TIP: Ao compor mensagens no github você pode utilizar as formatações
 do https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet[Markdown].
