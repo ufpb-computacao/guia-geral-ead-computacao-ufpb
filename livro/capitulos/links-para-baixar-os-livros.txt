@@ -1,5 +1,3 @@
-https://github.com/edusantana/guia-geral-ead-computacao-ufpb/releases/download/v1.1.0/guia-geral-ead-computacao-ufpb-v1.1.0.pdf
-
 https://github.com/edusantana/introducao-a-ead-livro/releases/download/v1.0.4/introducao-a-ead-livro-v1.0.4.pdf
 https://github.com/edusantana/fundamentos-socio-historico-da-educacao-livro/releases/download/v1.0.5/fundamentos-socio-historico-da-educacao-livro-v1.0.5.pdf
 https://github.com/edusantana/introducao-a-programacao-livro/releases/download/v1.0.1/introducao-a-programacao-livro-v1.0.1.pdf
