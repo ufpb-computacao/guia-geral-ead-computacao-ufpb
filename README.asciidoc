@@ -1,8 +1,8 @@
 = Guia Geral do Curso
 
 Este repositório contém o Guia Geral do
-http://portal.virtual.ufpb.br/wordpress/cursos/computacao/[Curso de Licenciatura em
-Computação a distância da UFPB].
+http://portal2.virtual.ufpb.br/index.php/cursos/graduacao/licenciatura-em-computacao/[Curso 
+de Licenciatura em Computação a distância da UFPB].
 
 :cap: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos
 
