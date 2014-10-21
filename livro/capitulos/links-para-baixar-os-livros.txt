@@ -11,6 +11,6 @@ https://github.com/edusantana/metodologia-do-trabalho-cientifico-livro/releases/
 
 https://github.com/edusantana/estruturas-de-dados-livro/releases/download/v0.3.4/estruturas-de-dados-livro-v0.3.4.pdf
 https://github.com/edusantana/introducao-a-arquitetura-de-computadores-livro/releases/download/v0.4.1/introducao-a-arquitetura-de-computadores-livro-v0.4.1.pdf
-https://github.com/edusantana/matematica-computacional-livro/releases/download/v0.9.5/matematica-computacional-livro-v0.9.5.pdf
+https://github.com/edusantana/matematica-computacional-livro/releases/download/v1.0.0/matematica-computacional-livro-v1.0.0.pdf
 
 https://github.com/edusantana/estatistica-livro/releases/download/v0.8.2/estatistica-livro-v0.8.2.pdf
