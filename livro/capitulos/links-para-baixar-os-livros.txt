@@ -1,7 +1,7 @@
 https://github.com/edusantana/introducao-a-ead-livro/releases/download/v1.0.4/introducao-a-ead-livro-v1.0.4.pdf
 https://github.com/edusantana/fundamentos-socio-historico-da-educacao-livro/releases/download/v1.0.5/fundamentos-socio-historico-da-educacao-livro-v1.0.5.pdf
 https://github.com/edusantana/introducao-a-programacao-livro/releases/download/v1.0.2/introducao-a-programacao-livro-v1.0.2.pdf
-https://github.com/edusantana/introducao-a-computacao-livro/releases/download/v1.1.0/introducao-a-computacao-livro-v1.1.0.pdf
+https://github.com/edusantana/introducao-a-computacao-livro/releases/download/v1.1.1/introducao-a-computacao-livro-v1.1.1.pdf
 https://github.com/edusantana/matematica-elementar-livro/releases/download/v2.3.7/matematica-elementar-livro-v2.3.7.pdf
 
 https://github.com/edusantana/calculo-diferencial-e-integral-livro/releases/download/v1.2.0/calculo-diferencial-e-integral-livro-v1.2.0.pdf
