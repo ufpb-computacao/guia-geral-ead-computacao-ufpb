@@ -5,7 +5,7 @@ https://github.com/edusantana/introducao-a-computacao-livro/releases/download/v1
 https://github.com/edusantana/matematica-elementar-livro/releases/download/v2.3.7/matematica-elementar-livro-v2.3.7.pdf
 
 https://github.com/edusantana/calculo-diferencial-e-integral-livro/releases/download/v1.2.1/calculo-diferencial-e-integral-livro-v1.2.1.pdf
-https://github.com/edusantana/fundamentos-psicologicos-da-educacao-livro/releases/download/v1.0.0/fundamentos-psicologicos-da-educacao-livro-v1.0.0.pdf
+https://github.com/edusantana/fundamentos-psicologicos-da-educacao-livro/releases/download/v1.0.1/fundamentos-psicologicos-da-educacao-livro-v1.0.1.pdf
 https://github.com/edusantana/linguagem-de-programacao-i-livro/releases/download/v1.0.1/linguagem-de-programacao-i-livro-v1.0.1.pdf
 https://github.com/edusantana/metodologia-do-trabalho-cientifico-livro/releases/download/v1.0.2/metodologia-do-trabalho-cientifico-livro-v1.0.2.pdf
 
