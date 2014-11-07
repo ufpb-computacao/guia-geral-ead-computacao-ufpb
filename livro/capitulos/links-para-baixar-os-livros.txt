@@ -13,4 +13,4 @@ https://github.com/edusantana/estruturas-de-dados-livro/releases/download/v1.0.0
 https://github.com/edusantana/introducao-a-arquitetura-de-computadores-livro/releases/download/v1.0.0/introducao-a-arquitetura-de-computadores-livro-v1.0.0.pdf
 https://github.com/edusantana/matematica-computacional-livro/releases/download/v1.0.1/matematica-computacional-livro-v1.0.1.pdf
 
-https://github.com/edusantana/estatistica-livro/releases/download/v0.8.2/estatistica-livro-v0.8.2.pdf
+https://github.com/edusantana/estatistica-livro/releases/download/v1.0.0/estatistica-livro-v1.0.0.pdf
