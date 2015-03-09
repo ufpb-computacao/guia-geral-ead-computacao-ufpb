@@ -1,4 +1,4 @@
-https://github.com/edusantana/introducao-a-computacao-livro/releases/download/v1.1.1/introducao-a-computacao-livro-v1.1.1.pdf
+https://github.com/edusantana/introducao-a-computacao-livro/releases/download/v1.1.2/introducao-a-computacao-livro-v1.1.2.pdf
 https://github.com/edusantana/introducao-a-programacao-livro/releases/download/v1.0.2/introducao-a-programacao-livro-v1.0.2.pdf
 https://github.com/edusantana/matematica-elementar-livro/releases/download/v2.3.8/matematica-elementar-livro-v2.3.8.pdf
 https://github.com/edusantana/introducao-a-ead-livro/releases/download/v1.0.4/introducao-a-ead-livro-v1.0.4.pdf
