@@ -1,0 +1,15 @@
+https://github.com/ufpb-computacao/introducao-a-computacao-livro/releases/download/v1.1.0/introducao-a-computacao-livro-v1.1.0.pdf
+https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases/download/v1.0.1/introducao-a-programacao-livro-v1.0.1.pdf
+https://github.com/ufpb-computacao/matematica-elementar-livro/releases/download/v2.3.8/matematica-elementar-livro-v2.3.8.pdf
+https://github.com/ufpb-computacao/fundamentos-socio-historico-da-educacao-livro/releases/download/v1.0.5/fundamentos-socio-historico-da-educacao-livro-v1.0.5.pdf
+https://github.com/ufpb-computacao/calculo-diferencial-e-integral-livro/releases/download/v1.2.1/calculo-diferencial-e-integral-livro-v1.2.1.pdf
+https://github.com/ufpb-computacao/fundamentos-psicologicos-da-educacao-livro/releases/download/v1.0.0/fundamentos-psicologicos-da-educacao-livro-v1.0.0.pdf
+https://github.com/ufpb-computacao/linguagem-de-programacao-i-livro/releases/download/v1.0.2/linguagem-de-programacao-i-livro-v1.0.2.pdf
+https://github.com/ufpb-computacao/matematica-computacional-livro/releases/download/v1.0.5/matematica-computacional-livro-v1.0.5.pdf
+https://github.com/ufpb-computacao/computacao-livros-impressao/releases/download/2014-10.9/computacao-periodo3-volume1-2014-10.pdf
+https://github.com/ufpb-computacao/computacao-livros-impressao/releases/download/2014-10.8/computacao-periodo2-volume1-2014-10.pdf
+https://github.com/ufpb-computacao/computacao-livros-impressao/releases/download/2014-10.7/computacao-periodo1-volume2-2014-10.pdf
+https://github.com/ufpb-computacao/computacao-livros-impressao/releases/download/2014-10.2/computacao-periodo1-matematica-elementar-2014-10.pdf
+https://github.com/ufpb-computacao/computacao-livros-impressao/releases/download/2014-10.2/computacao-periodo1-volume1-2014-10.pdf
+https://github.com/ufpb-computacao/computacao-livros-impressao/releases/download/2014-10.2/computacao-periodo2-ingles-2014-10.pdf
+https://github.com/ufpb-computacao/computacao-livros-impressao/releases/download/2014-10.2/computacao-periodo4-banco-de-dados-2014-10.pdf
