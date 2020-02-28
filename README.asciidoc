@@ -8,6 +8,8 @@ de Licenciatura em Computação a distância da UFPB].
 
 TIP: para baixar todos os livros publicados acesse http://tiny.cc/livros-computacao-ufpb[este link].
 
+Autor do processo: https://github.com/edusantana[Eduardo de Santana Medeiros Alexandre].
+
 = Apresentação do Guia Geral do Curso =
 * {cap}/guia.adoc[Guia]
 * {cap}/guia-colaboracao.adoc[Guia Colaboração]
