@@ -6,7 +6,7 @@ de Licenciatura em Computação a distância da UFPB].
 
 :cap: https://github.com/edusantana/guia-geral-ead-computacao-ufpb/blob/master/livro/capitulos
 
-TIP: para baixar todos os livros publicados acesse [http://tiny.cc/livros-computacao-ufpb](http://tiny.cc/livros-computacao-ufpb).
+TIP: para baixar todos os livros publicados acesse http://tiny.cc/livros-computacao-ufpb[este link].
 
 = Apresentação do Guia Geral do Curso =
 * {cap}/guia.adoc[Guia]
